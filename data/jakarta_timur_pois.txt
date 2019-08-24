@@ -1,0 +1,1179 @@
+name|lat|lng|street|number
+Kranji | -6.2244998 | 106.979963 | Jl. Sultan Agung | No.7
+Duren Kalibata | -6.2553003 | 106.85523 | Jl. Pengadegan | 0
+Menteng Huis | -6.1878007 | 106.836404 | Jalan Cikini Raya | no. 4
+Farmer's Market | -6.2183153 | 106.835126 | nil | 0
+Superindo | -6.2488745 | 106.969127 | nil | 0
+gpib gloria | -6.2465801 | 106.975726 | kenanga 4 | 08
+Masjid al Muhajirin | -6.2152386 | 106.882348 | nil | 0
+Pegadaian | -6.2904034 | 106.836408 | nil | 0
+Kelapa Gading Timur | -6.1682935 | 106.904214 | nil | 0
+Kebagusan | -6.3103102 | 106.831217 | nil | 0
+Senen | -6.17644 | 106.838959 | nil | 0
+Serdang | -6.1592853 | 106.861333 | nil | 0
+Kramat Jati | -6.2728548 | 106.870189 | nil | 0
+Jatinegara | -6.2034543 | 106.917245 | nil | 0
+Baru | -6.3235068 | 106.846982 | nil | 0
+Jatiwarna | -6.3098164 | 106.931910 | nil | 0
+Jatisari | -6.3392957 | 106.945257 | nil | 0
+Jati Padang | -6.2872405 | 106.830544 | nil | 0
+Kebon Sirih | -6.1850822 | 106.831105 | nil | 0
+Cipinang Besar Selatan | -6.2290933 | 106.880094 | nil | 0
+Pinang Ranti | -6.2884275 | 106.883331 | nil | 0
+Rawamangun | -6.1959278 | 106.884725 | nil | 0
+Bambu Apus | -6.3131056 | 106.900972 | nil | 0
+Bintara | -6.2354818 | 106.959077 | nil | 0
+Jatiasih | -6.2919756 | 106.963995 | nil | 0
+Sunter Jaya | -6.151857 | 106.878172 | nil | 0
+Cipinang Muara | -6.2262109 | 106.888171 | nil | 0
+Menteng | -6.2010459 | 106.835211 | nil | 0
+Kalisari | -6.3345458 | 106.852935 | nil | 0
+Rawa Terate | -6.1869376 | 106.921551 | nil | 0
+Guntur | -6.2083116 | 106.833312 | nil | 0
+Jatiwaringin | -6.2724577 | 106.914735 | nil | 0
+Pejaten Timur | -6.2808809 | 106.846906 | nil | 0
+Pasar Minggu | -6.2893924 | 106.839051 | nil | 0
+Gunung Sahari Utara | -6.1504141 | 106.837690 | nil | 0
+Malaka Jaya | -6.223973 | 106.936237 | nil | 0
+Cempaka Baru | -6.1677049 | 106.861978 | nil | 0
+Dukuh | -6.2951231 | 106.878000 | nil | 0
+Kenari | -6.1926888 | 106.846570 | nil | 0
+Pondok Kelapa | -6.2422972 | 106.933313 | nil | 0
+Jati | -6.1920892 | 106.897944 | nil | 0
+Cijantung | -6.3212053 | 106.858789 | nil | 0
+Kranji | -6.2307248 | 106.975576 | nil | 0
+Menteng Atas | -6.217658 | 106.840506 | nil | 0
+Kelapa Gading Barat | -6.1556025 | 106.895170 | nil | 0
+Jatiluhur | -6.3202089 | 106.950373 | nil | 0
+Tanah Tinggi | -6.1798929 | 106.849410 | nil | 0
+Bali Mester | -6.2204721 | 106.866716 | nil | 0
+Sumur Batu | -6.1636676 | 106.870102 | nil | 0
+Pegangsaan | -6.2019499 | 106.847491 | nil | 0
+Bale Kambang | -6.2807497 | 106.852063 | nil | 0
+Medansatria | -6.1991516 | 106.977177 | nil | 0
+Utan Kayu Selatan | -6.2033061 | 106.868749 | nil | 0
+Jakamulya | -6.2664712 | 106.962089 | nil | 0
+Cakung Barat | -6.173369 | 106.935804 | nil | 0
+Menteng Dalam | -6.230139 | 106.841882 | nil | 0
+Tugu | -6.3685746 | 106.854188 | nil | 0
+Kramat | -6.1838194 | 106.84596 | nil | 0
+Duren Sawit | -6.235992 | 106.916662 | nil | 0
+Rambutan | -6.3046995 | 106.874560 | nil | 0
+Kartini | -6.1540643 | 106.834068 | nil | 0
+Kebon Pala | -6.2556447 | 106.877507 | nil | 0
+Utan Kayu Utara | -6.1956679 | 106.86812 | nil | 0
+Jakasampurna | -6.2435008 | 106.972194 | nil | 0
+Bojong Kulur | -6.3335422 | 106.967652 | nil | 0
+Lenteng Agung | -6.3230493 | 106.836203 | nil | 0
+Cipinang Besar Utara | -6.2179227 | 106.880671 | nil | 0
+Makasar | -6.2760771 | 106.876994 | nil | 0
+Kebon Manggis | -6.2074976 | 106.856761 | nil | 0
+Cibubur | -6.355161 | 106.880766 | nil | 0
+Jatibening | -6.261941 | 106.939282 | nil | 0
+Pulo Gadung | -6.1825476 | 106.901634 | nil | 0
+Pasar Manggis | -6.2103818 | 106.841227 | nil | 0
+Jatikramat | -6.276199 | 106.941994 | nil | 0
+Jatisampurna | -6.3596525 | 106.923165 | nil | 0
+Pengadegan | -6.2489143 | 106.854349 | nil | 0
+Pondok Kopi | -6.2269542 | 106.942373 | nil | 0
+Cipinang | -6.2060501 | 106.892619 | nil | 0
+Kebon Kosong | -6.156322 | 106.854286 | nil | 0
+Cikini | -6.1913465 | 106.839550 | nil | 0
+Cipinang Melayu | -6.2483449 | 106.903774 | nil | 0
+Penggilingan | -6.2050399 | 106.935919 | nil | 0
+Cilangkap | -6.3335136 | 106.909252 | nil | 0
+Jatirahayu | -6.2973386 | 106.924534 | nil | 0
+Rawajati | -6.2580249 | 106.85499 | nil | 0
+Jatimurni | -6.3249399 | 106.930308 | nil | 0
+Pejaten Barat | -6.2737213 | 106.834701 | nil | 0
+Klender | -6.2183295 | 106.90669 | nil | 0
+Kampung Tengah | -6.2903459 | 106.866267 | nil | 0
+Johar Baru | -6.1857706 | 106.856776 | nil | 0
+Pekayon | -6.3432799 | 106.864603 | nil | 0
+Kayu Putih | -6.1790057 | 106.883675 | nil | 0
+Ceger | -6.3130259 | 106.890522 | nil | 0
+Ciangsana | -6.3681268 | 106.951749 | nil | 0
+Jatimekar | -6.2949776 | 106.946839 | nil | 0
+Kuningan Timur | -6.230969 | 106.830195 | nil | 0
+Jatirangga | -6.3606594 | 106.937847 | nil | 0
+Tanjung Barat | -6.3065276 | 106.848833 | nil | 0
+Pondok Bambu | -6.2379668 | 106.902673 | nil | 0
+Bungur | -6.1713909 | 106.848231 | nil | 0
+Pisangan Timur | -6.2062858 | 106.880769 | nil | 0
+Gunung Sahari Selatan | -6.1570118 | 106.8443 | nil | 0
+Halim Perdana Kusuma | -6.2655682 | 106.893638 | nil | 0
+Pulo Gebang | -6.2051221 | 106.952240 | nil | 0
+Ciracas | -6.3261105 | 106.875136 | nil | 0
+Bintarajaya | -6.2479813 | 106.954570 | nil | 0
+Kalibata | -6.2623624 | 106.840282 | nil | 0
+Pondok Cina | -6.3674737 | 106.832346 | nil | 0
+Galur | -6.176019 | 106.855195 | nil | 0
+Malaka Sari | -6.22489 | 106.928824 | nil | 0
+Kemayoran | -6.1648157 | 106.845086 | nil | 0
+Cakung Timur | -6.1728853 | 106.95671 | nil | 0
+Batu Ampar | -6.2785032 | 106.862352 | nil | 0
+Kota Baru | -6.2205218 | 106.964950 | nil | 0
+Kwitang | -6.1837065 | 106.840297 | nil | 0
+Munjul | -6.3478538 | 106.895589 | nil | 0
+Jatinegara Kaum | -6.20113 | 106.902760 | nil | 0
+Gedong | -6.3035401 | 106.861173 | nil | 0
+Jatimakmur | -6.2846812 | 106.925628 | nil | 0
+Pegangsaan Dua | -6.1626344 | 106.915846 | nil | 0
+Bidara Cina | -6.2330194 | 106.866469 | nil | 0
+Kampung Melayu | -6.2193557 | 106.863618 | nil | 0
+Pasar Baru | -6.164901 | 106.833466 | nil | 0
+Cawang | -6.2503382 | 106.867490 | nil | 0
+Pasir Gunung Selatan | -6.359419 | 106.846140 | nil | 0
+Jakasetia | -6.2678482 | 106.974220 | nil | 0
+Jatiranggon | -6.3383832 | 106.927588 | nil | 0
+Cikoko | -6.2449525 | 106.855058 | nil | 0
+Mekarsari | -6.3696991 | 106.872127 | nil | 0
+Kampung Rawa | -6.1795121 | 106.85565 | nil | 0
+Rawa Bunga | -6.2187144 | 106.871653 | nil | 0
+Utan Panjang | -6.1648717 | 106.854814 | nil | 0
+Lubang Buaya | -6.2928737 | 106.903086 | nil | 0
+Paseban | -6.1922568 | 106.852508 | nil | 0
+Pondok Ranggon | -6.3544342 | 106.906635 | nil | 0
+Ujung Menteng | -6.1834535 | 106.964859 | nil | 0
+Setu | -6.3127494 | 106.914553 | nil | 0
+Manggarai | -6.2134963 | 106.850939 | nil | 0
+Jatirasa | -6.295228 | 106.967550 | nil | 0
+Kebon Baru | -6.2329499 | 106.861486 | nil | 0
+Purnama Motor | -6.3619618 | 106.833317 | Jl. Margonda Raya No. 505, Depok | 0
+Hero Service Station | -6.3624629 | 106.833366 | nil | 0
+Dealer Resmi Kawasaki Motor Depok | -6.3626229 | 106.833441 | nil | 0
+Dealer Resmi Yamaha Motor Depok | -6.3626922 | 106.833317 | nil | 0
+Bengkel Mobil Wijaya Motor | -6.3653792 | 106.833671 | nil | 0
+Dealer Resmi Honda Motor Setia Utama | -6.3580592 | 106.832400 | nil | 0
+TELKOMSEL | -6.2221222 | 106.923716 | nil | 0
+KFC Cikini | -6.1965135 | 106.840488 | Jalan Cikini Raya No.119 | 0
+McDonald's | -6.1975633 | 106.840958 | nil | 0
+KFC Gelael | -6.3281132 | 106.865424 | nil | 0
+Alfamart | -6.3411492 | 106.863201 | nil | 0
+Taman Mini Skylift Station | -6.3011879 | 106.902156 | nil | 0
+Warung Tekko | -6.2216971 | 106.832885 | Jl. HR Rasuna Said | Kav C.22 Unit GF 05-06
+McDonald's | -6.2206731 | 106.832472 | Jl. HR Rasuna Said | Tel: 14045
+Aston Rasuna Hotel and Residence | -6.2192413 | 106.836434 | Jl.HR Rasuna said | 0
+Kafe Betawi | -6.2179322 | 106.835292 | nil | 0
+QBox Cafe | -6.217509 | 106.835198 | nil | 0
+Comics Cafe | -6.2176167 | 106.835227 | nil | 0
+Pizza Hut | -6.2206146 | 106.832540 | nil | 0
+Wendy's | -6.2215452 | 106.832758 | nil | 0
+KFC Pasar Festival | -6.2216012 | 106.833007 | nil | 0
+Seven Eleven Pasar Festival | -6.221717 | 106.832719 | Pasar Festival, Jalan Hr. Rasuna Said | Kav C 22
+Dunkin Donuts | -6.2209826 | 106.832701 | nil | 0
+Johnny Andrean | -6.2207906 | 106.832889 | nil | 0
+Starmart | -6.21966 | 106.837030 | nil | 0
+Pondok Nirwana | -6.2444859 | 106.864150 | nil | 0
+Takarajima | -6.3609294 | 106.833227 | Jalan Margonda Raya | 0
+Alfa Midi | -6.3662823 | 106.834219 | nil | 0
+Alfa Mart | -6.3616013 | 106.833415 | nil | 0
+Alfamart | -6.2850147 | 106.918604 | nil | 0
+kido hums | -6.2354424 | 106.926085 | nil | 0
+Otel Lobby | -6.218784 | 106.834201 | nil | 0
+Food Court Passer Kuningan | -6.2212036 | 106.833550 | nil | 0
+JCO Donuts &amp; Cafe | -6.2211443 | 106.832723 | nil | 0
+Anugerah Car Wash | -6.232358 | 106.931070 | nil | 0
+BURGER KING | -6.2273119 | 106.922401 | nil | 0
+7-Eleven | -6.2202656 | 106.922807 | nil | 0
+Ayam Lepas | -6.3646098 | 106.834073 | nil | 0
+Bebek Tiktok | -6.3612849 | 106.833743 | Jalan Margonda Raya | 0
+Es Pocong | -6.3611638 | 106.83327 | Jalan Margonda Raya | 0
+indomaret | -6.3608311 | 106.833668 | Jalan Margonda Raya | 0
+Mie Ayam Fajar | -6.3618419 | 106.833377 | Jalan Margonda Raya | 0
+Pecel Lele Lela | -6.3634229 | 106.833506 | nil | 0
+Pizza Hut Delivery (PHD) | -6.3638049 | 106.834089 | nil | 0
+Warung Sate Gajah | -6.3663551 | 106.833487 | nil | 0
+Indomaret | -6.3697288 | 106.849466 | nil | 0
+Hotel Genggong | -6.3695367 | 106.861615 | nil | 0
+Alfamart | -6.3680892 | 106.834278 | nil | 0
+DIM SUM | -6.3680369 | 106.833911 | nil | 0
+Mushola Al Ikhlas | -6.3677259 | 106.835296 | nil | 0
+Rumah Makan Bude | -6.3679445 | 106.834260 | nil | 0
+Rumah Makan Padang Sederhana | -6.3674045 | 106.835124 | nil | 0
+Sinar | -6.3682284 | 106.834255 | nil | 0
+Warnet Redz | -6.3682672 | 106.834485 | nil | 0
+Warteg | -6.3672928 | 106.835184 | nil | 0
+24 Jam | -6.3682987 | 106.834252 | nil | 0
+Mekarsari Government Office | -6.3665272 | 106.865172 | nil | 0
+Wisma Hijau | -6.3649625 | 106.865738 | nil | 0
+Hoka Hoka Bento | -6.1989678 | 106.88626 | nil | 0
+Pizza Hut | -6.1989263 | 106.885766 | nil | 0
+Dunkin' Donuts | -6.2000925 | 106.88578 | nil | 0
+Jessy Bread | -6.1982939 | 106.885891 | nil | 0
+Apotik Rini | -6.1997376 | 106.88586 | Jalan Balai Pustaka Timur | No.10-11
+Ayam Balphuss | -6.2013183 | 106.885799 | nil | 0
+Riung Tenda | -6.2011358 | 106.885815 | nil | 0
+Ayam Bakar Gilimanuk | -6.1970682 | 106.886243 | nil | 0
+Ikan Bakar Banyuwangi | -6.2007422 | 106.885831 | nil | 0
+Superindo | -6.286896 | 106.943883 | nil | 0
+Pasar Palsigunung | -6.3579953 | 106.858896 | nil | 0
+7-Eleven Pondok Kelapa | -6.2456085 | 106.935014 | Jalan Pondok Kelapa Raya | Blok F1 No.09
+Salira | -6.2427582 | 106.934239 | nil | 0
+Alfa Express Pondok Kelapa | -6.2434194 | 106.934303 | nil | 0
+Burger N Grill Kalimalang | -6.2487307 | 106.935462 | nil | 0
+Pizza Hut Pondok Kelapa | -6.2435573 | 106.934335 | nil | 0
+7-Eleven | -6.2357044 | 106.846777 | nil | 0
+Dunkin' Donuts Tebet | -6.2252875 | 106.85518 | nil | 0
+Cafe Al Tahrir | -6.2205601 | 106.832550 | nil | 0
+Dim Sum Inc | -6.2216833 | 106.8329 | nil | 0
+Heartz Chicken Buffet | -6.2216817 | 106.833001 | nil | 0
+Ko he Noor | -6.2217055 | 106.83281 | nil | 0
+de Resto | -6.2216769 | 106.832961 | nil | 0
+Bakmi GM | -6.2216253 | 106.833361 | nil | 0
+Alex Pizza e Pasta | -6.2174805 | 106.834731 | nil | 0
+Allegra Bistro and Bar | -6.2182248 | 106.83460 | nil | 0
+Body Shop | -6.2181514 | 106.8348 | nil | 0
+Caho Mung Qui Khach | -6.2181548 | 106.834586 | nil | 0
+Daily Bread Bakery and Cafe | -6.2180374 | 106.834549 | nil | 0
+Dapur Melayu | -6.2178965 | 106.834559 | nil | 0
+E Corner | -6.2186576 | 106.83500 | nil | 0
+Ho Lung Sechan Cuisine | -6.218346 | 106.835200 | nil | 0
+Kopi Luwak | -6.2182454 | 106.835264 | nil | 0
+Madam Kwok | -6.217655 | 106.834741 | nil | 0
+Mangotree Bistro | -6.2184859 | 106.834826 | nil | 0
+Moodz Gastro Bar | -6.2184399 | 106.835149 | nil | 0
+Pandav Coffee | -6.2182947 | 106.834519 | nil | 0
+Starbucks | -6.2178663 | 106.834940 | nil | 0
+Talaga | -6.2176986 | 106.835247 | nil | 0
+Tgrill | -6.2175912 | 106.834758 | nil | 0
+Usselsspring | -6.2177623 | 106.834913 | nil | 0
+&quot;Devista&quot; Laundry | -6.2186219 | 106.838328 | nil | 0
+&quot;King Londre&quot; Laundry | -6.2194693 | 106.839550 | nil | 0
+&quot;Mitra Setia&quot; Binatu | -6.2189514 | 106.839609 | nil | 0
+&quot;Mitra&quot; Laundry | -6.218894 | 106.838628 | nil | 0
+&quot;Superindah&quot; Laundry and Dry Clening | -6.2189177 | 106.838352 | nil | 0
+Q-Ta Laundry | -6.2179792 | 106.837636 | nil | 0
+KFC Harapan Indah | -6.1937983 | 106.975426 | nil | 0
+McDonalds Harapan Indah | -6.1937343 | 106.975276 | nil | 0
+Bank Danamon | -6.2419228 | 106.841349 | nil | 0
+Shelter Pondok Cina | -6.3681964 | 106.831274 | nil | 0
+Shelter FISIP | -6.3622453 | 106.830844 | nil | 0
+Shelter Stasiun UI | -6.3610423 | 106.831127 | nil | 0
+Shelter MUI | -6.3656139 | 106.830862 | nil | 0
+Sui Sen | -6.1615105 | 106.833896 | nil | 0
+Home | -6.1600508 | 106.89770 | Kelapa Gadong | N18 Vila Gading Indah
+Indomaret KH Abdul Syafii | -6.224148 | 106.852607 | KH Abdul Syafii | 0
+Dunkin' Donuts | -6.2245141 | 106.854181 | KH Abdul Syafi'ie | 0
+Mamink Daeng Tata | -6.2239344 | 106.851514 | KH Abdul Syafii | 0
+Sederhana | -6.1965871 | 106.882885 | nil | 0
+Jamblang | -6.2591674 | 106.963767 | nil | 0
+Nuansa Musik 2 | -6.2489305 | 106.970226 | nil | 0
+PEPeNERO | -6.2330083 | 106.831245 | nil | 0
+Musholah | -6.3013604 | 106.930386 | nil | 0
+The Westin Jakarta | -6.2238997 | 106.833685 | nil | 0
+Alfamart | -6.220532 | 106.88639 | nil | 0
+Indomaret | -6.2206813 | 106.886329 | nil | 0
+Manggarai Selatan | -6.2213445 | 106.849617 | nil | 0
+CIMB Niaga | -6.1938162 | 106.848563 | nil | 0
+BNI 46 | -6.1937036 | 106.848245 | nil | 0
+Catering Fenania | -6.1955747 | 106.941033 | Penggilingan Elok | Blok A4 No.13
+Padang Reastaurant | -6.3045766 | 106.932855 | nil | 0
+ACE Hardware | -6.172576 | 106.862855 | nil | 0
+C One | -6.1724023 | 106.863224 | nil | 0
+Rumah Dijual | -6.2275624 | 106.855834 | nil | 0
+Konsorsium Reformasi Hukum Nasional | -6.2266338 | 106.856247 | Tebet Utara 2 | 13
+CIMB Niaga | -6.225412 | 106.855771 | KH Abdul Syafi'ie | 0
+Endorse | -6.2278192 | 106.854846 | nil | 0
+Rava House | -6.2277225 | 106.854863 | Tebet Utara 4C | 9
+Musketeers | -6.2275834 | 106.855123 | Tebet Utara 1A | 6
+Kebab Baba Rafi | -6.2277399 | 106.855220 | Tebet Utara Dalam | 5
+Bakul TUkul | -6.227224 | 106.854875 | Tebet Utara Dalam | 0
+Nasi Bebek | -6.227208 | 106.854955 | nil | 0
+Nouia Brand | -6.2270712 | 106.854809 | Tebet Utara 3G | 0
+Ayam Panggang Rawamangun | -6.2263204 | 106.854976 | Tebet Utara Dalam | 0
+ADRA Indonesia | -6.2427161 | 106.846174 | Letjen MT Haryono | Kav 4-5
+Villa Jatirasa | -6.3059091 | 106.963114 | nil | 0
+Komplek Satwika Permai (Telkom) | -6.3121421 | 106.950332 | nil | 0
+Indomaret | -6.3128491 | 106.952157 | nil | 0
+Komplek Asabri Indah | -6.3272953 | 106.951330 | nil | 0
+Taman Jatisari Permai | -6.3296993 | 106.955239 | nil | 0
+Komplek Danamon | -6.3338594 | 106.949708 | nil | 0
+Komplek BCA | -6.3348115 | 106.953956 | nil | 0
+Komplek Bumi Dirgantara | -6.3504226 | 106.947558 | nil | 0
+Masjid Khusnul Khotimah | -6.3494218 | 106.947144 | nil | 0
+Indomaret | -6.3477537 | 106.947341 | nil | 0
+Alfamart | -6.3473843 | 106.947507 | nil | 0
+Bumi Perkemahan Bekasi | -6.3438246 | 106.954080 | nil | 0
+Al Hidayah | -6.334919 | 106.945629 | nil | 0
+Nurul Huda | -6.333942 | 106.952108 | nil | 0
+Asabri Indah | -6.3269008 | 106.949968 | nil | 0
+Babusalam | -6.3290137 | 106.953013 | nil | 0
+Masjid Jami Al Awabin | -6.3261111 | 106.958036 | nil | 0
+Indomaret | -6.3258081 | 106.946978 | nil | 0
+Indomaret | -6.3322192 | 106.953636 | nil | 0
+Alfamart | -6.3331501 | 106.953618 | nil | 0
+Indomaret | -6.3365357 | 106.951639 | nil | 0
+Pasar Kranggan | -6.3645703 | 106.923812 | nil | 0
+RS Jatisampurna | -6.3472279 | 106.92580 | nil | 0
+Pasar Pocong | -6.3226563 | 106.975254 | nil | 0
+Pamahan | -6.3026586 | 106.94996 | nil | 0
+Pondok Sate Jatisari | -6.3409594 | 106.944980 | nil | 0
+Alfamart | -6.3339938 | 106.945892 | nil | 0
+Pondok Indah Jatisari | -6.3323948 | 106.944371 | nil | 0
+Dapur Betawi | -6.3289632 | 106.946201 | nil | 0
+Pasar Kecapi | -6.3060945 | 106.934504 | nil | 0
+Komplek Puri Nusapala | -6.3193473 | 106.961175 | nil | 0
+Komplek Puri Nusapala | -6.3223345 | 106.960105 | nil | 0
+Komplek Vila Mahkota Pesona | -6.3217342 | 106.963489 | nil | 0
+Komplek Sapta Pesona | -6.3174015 | 106.956154 | nil | 0
+KOMPLEK PURI GADING | -6.3119173 | 106.939917 | nil | 0
+Saung Apung | -6.3172675 | 106.971391 | nil | 0
+SPBU Bojongkulur | -6.3194969 | 106.966196 | Jalan Raya Parpostel | 0
+Komplek Mandosi Permai | -6.3161511 | 106.961201 | nil | 0
+Gedung St. Nahanson Parapat | -6.307948 | 106.954201 | nil | 0
+Komsen Akuarium | -6.3059374 | 106.956127 | nil | 0
+McDonald's Jati Asih Bekasi | -6.2954243 | 106.959152 | bunderan jatiasih | 0
+Kelurahan Jatiasih | -6.2939248 | 106.964283 | nil | 0
+Restoran Pizza Hut - Komsen Jatiasih Bekasi | -6.2927425 | 106.959966 | Jalan Raya Jati Asih No.13, Jatiasih, Bekasi, Kota BksJatiasih | 0
+Indomaret | -6.2937355 | 106.962743 | nil | 0
+Kecamatan Jatiasih | -6.2922399 | 106.964473 | nil | 0
+Koramil Jatiasih | -6.2925358 | 106.964449 | nil | 0
+Komplek Pondok Surya Mandala | -6.2792867 | 106.9662 | nil | 0
+Perumahan Pondok Mitra Lestari | -6.2859887 | 106.974014 | nil | 0
+Komplek Graha Indah | -6.2852579 | 106.953213 | nil | 0
+Komplek Bumi Nasio Indah | -6.2891077 | 106.950606 | nil | 0
+Komplek Angkasa Puri | -6.2932988 | 106.951228 | nil | 0
+Komplek Pemda Jatiasih | -6.2907928 | 106.961640 | nil | 0
+Komplek Pemda Jatiasih | -6.287764 | 106.965991 | nil | 0
+Komplek Coca-Cola | -6.2821013 | 106.967826 | nil | 0
+Komplek Kemang IFI Graha | -6.295645 | 106.971328 | nil | 0
+Komplek Pondokgede Permai | -6.3008491 | 106.971113 | nil | 0
+Nurul A'la | -6.3197345 | 106.948578 | nil | 0
+Indomaret | -6.3201423 | 106.94888 | nil | 0
+Alfamaret | -6.3200387 | 106.948581 | nil | 0
+Puskesmas Jatiluhur | -6.3200517 | 106.950014 | nil | 0
+Kelurahan Jatiluhur | -6.3199578 | 106.95046 | nil | 0
+Dolly | -6.316695 | 106.949926 | nil | 0
+Komplek Duta Indah | -6.2829698 | 106.938096 | nil | 0
+Komplek Intan Lestari | -6.279642 | 106.938409 | nil | 0
+De Sanctuary | -6.2762364 | 106.93788 | nil | 0
+Perum Dosen IKIP | -6.2697361 | 106.941965 | nil | 0
+Jati Kramat Indah 1 | -6.2830637 | 106.944685 | nil | 0
+Jati Kramat Indah 2 | -6.2752408 | 106.947383 | nil | 0
+Alfamidi | -6.2863768 | 106.94888 | nil | 0
+Komplek Mayor | -6.2790548 | 106.971342 | nil | 0
+Al-Fatah | -6.286092 | 106.966566 | nil | 0
+Klinik Mawar | -6.2836939 | 106.967567 | nil | 0
+Ar-Rahmah | -6.2829589 | 106.968367 | nil | 0
+Pertigaan Pasar Rebo | -6.2947266 | 106.965429 | nil | 0
+HKBP Jatiasih | -6.2940371 | 106.966158 | nil | 0
+Pertigaan Komsen | -6.2930427 | 106.960282 | nil | 0
+Mushala Pospol Jatiasih | -6.2933141 | 106.959727 | nil | 0
+Sakura Regency | -6.3099768 | 106.957685 | nil | 0
+Asrama POLRI Jatirangga | -6.3549506 | 106.945774 | nil | 0
+Marketing Karya Makmur | -6.346737 | 106.943695 | nil | 0
+Cluster Bali 1 | -6.3481547 | 106.945978 | nil | 0
+Cluster Bali 2 | -6.3461997 | 106.949690 | nil | 0
+Klinik Devina Medika | -6.3460411 | 106.948218 | nil | 0
+Klinik Avia Medika | -6.3425907 | 106.949824 | nil | 0
+Cluster Heliconia | -6.3338476 | 106.953692 | nil | 0
+Baitul Haq | -6.320384 | 106.941060 | nil | 0
+Alam Raya 1, Puri Gading | -6.3235639 | 106.941363 | nil | 0
+Alam Raya 2, Puri Gading | -6.3226317 | 106.939533 | nil | 0
+Villa Tampaksiring, Puri Gading | -6.3189545 | 106.9392 | nil | 0
+Villa Carita, Puri Gading | -6.3193818 | 106.940861 | nil | 0
+Villa Kintamani, Puri Gading | -6.316229 | 106.939344 | nil | 0
+Villa Ubud, Puri Gading | -6.3137819 | 106.941148 | nil | 0
+Villa Legian, Puri Gading | -6.313251 | 106.939305 | nil | 0
+Alam Besakih, Puri Gading | -6.3095868 | 106.939702 | nil | 0
+Green Park Residence | -6.3142852 | 106.934421 | nil | 0
+KOTA WISATA | -6.3643348 | 106.958226 | nil | 0
+Jatiasih | -6.2936589 | 106.963669 | nil | 0
+Villa Nusa Indah 1 | -6.3079708 | 106.971343 | nil | 0
+Villa Nusa Indah 2 | -6.3198289 | 106.972072 | nil | 0
+Bumi Mutiara | -6.3268242 | 106.974883 | nil | 0
+Sakura Regency 2 | -6.32531 | 106.966257 | nil | 0
+Villa Nusa Indah 3 | -6.3316228 | 106.964541 | nil | 0
+Villa Nusa Indah 5 | -6.3400254 | 106.969369 | nil | 0
+Woodhill Residence | -6.3299693 | 106.948899 | nil | 0
+Green Hill | -6.3352106 | 106.948456 | nil | 0
+Circle K | -6.2771981 | 106.840300 | nil | 0
+FamilyMart | -6.2791362 | 106.839551 | Jl. Pejaten Raya | No.45A, RT.4/RW.6
+Seven eleven | -6.2792824 | 106.839319 | nil | 0
+Alfamart | -6.2797164 | 106.835121 | nil | 0
+FM Kitchen | -6.1940324 | 106.847001 | nil | 0
+Excelso Express | -6.1946364 | 106.845977 | nil | 0
+Dunkin Donuts | -6.1975235 | 106.844494 | Jalan Kimia | 0
+Bank Mandiri KCP Jakarta RSCM | -6.1970284 | 106.84768 | Jalan Pangerang Diponegoro | 0
+Alfamart | -6.2983428 | 106.840694 | nil | 0
+Jambo Kupi | -6.2980637 | 106.840146 | nil | 0
+Seven Eleven | -6.286173 | 106.831273 | nil | 0
+Circle K | -6.2861351 | 106.830968 | nil | 0
+ThinkrCreative | -6.1848967 | 106.837462 | Jakarta Pusat | 0
+The Cake Storage | -6.2258157 | 106.857481 | KH Abdul Syafi'ie | 0
+Komplek BCA | -6.3351564 | 106.951079 | nil | 0
+Al Hikmah | -6.3336615 | 106.948858 | nil | 0
+Roni Tenda | -6.3281359 | 106.953318 | nil | 0
+Mas Thole, Bakso &amp; Mie Ayam | -6.3291014 | 106.953252 | nil | 0
+Taman Firdaus X | -6.3317391 | 106.958276 | nil | 0
+MA Sirojul Munir | -6.3305559 | 106.957245 | nil | 0
+Masjid TPU | -6.3361635 | 106.954271 | nil | 0
+Pojok Makmur | -6.332247 | 106.953872 | nil | 0
+Pos Security | -6.3293105 | 106.954296 | nil | 0
+Pos Security | -6.3307982 | 106.95331 | nil | 0
+Mushalla | -6.3317611 | 106.953031 | nil | 0
+Jatisari Residence | -6.3318982 | 106.955067 | nil | 0
+Komplek PKPU | -6.3327775 | 106.956242 | nil | 0
+Sirojul Munir | -6.3320272 | 106.956870 | nil | 0
+MI Sirojul Munir | -6.3320994 | 106.957244 | nil | 0
+Rumah Yudistira | -6.2335527 | 106.969277 | Jalan Bintara Raya | 0
+Masjid Al Amin | -6.3301041 | 106.971233 | nil | 0
+Puskesmas Bojong Kulur | -6.3305839 | 106.97026 | nil | 0
+Ghash Cloud | -6.2213797 | 106.903905 | Duren Sawit Raya | 2
+Bluegrass Bar &amp; Grill | -6.2193487 | 106.834322 | HR Rasuna Said | 0
+Masjid Universitas Indonesia | -6.3658093 | 106.831111 | nil | 0
+ayam penyet margonda | -6.3610016 | 106.833198 | nil | 0
+Melly's Garden Bar | -6.1841888 | 106.830108 | nil | 0
+Kopi Oey | -6.2542917 | 106.830824 | nil | 0
+Toko Material | -6.2944968 | 106.83787 | nil | 0
+Indomaret | -6.2853164 | 106.837989 | nil | 0
+Holland Bakkery Jati Padang | -6.2851677 | 106.837921 | Ragunan Raya | 26
+Indomaret | -6.2543717 | 106.830770 | nil | 0
+Yed Kupi | -6.2533985 | 106.84209 | nil | 0
+seven eleven | -6.2536225 | 106.841411 | nil | 0
+Tebet Green | -6.2425264 | 106.863611 | nil | 0
+Bank BNI | -6.2330104 | 106.965675 | nil | 0
+PT Filtagreen Global | -6.150794 | 106.897081 | nil | 0
+Hotel Alia Cikini | -6.1912007 | 106.83788 | Jl. Cikini Raya | 32
+Camden Bar | -6.1912165 | 106.837526 | Jalan Cikini Raya 2 | No. 1
+Gondia International Guesthouse | -6.1882594 | 106.834261 | Gondangdia Kecil | 22
+Indomaret | -6.2088177 | 106.881423 | Gading Raya | 0
+Honda | -6.2921178 | 106.841615 | nil | 0
+Cwie Mie Malang | -6.3015422 | 106.837055 | nil | 0
+Metro Cut | -6.2862327 | 106.832866 | nil | 0
+Galur | -6.1743851 | 106.854779 | Jl. Letjen Suprapto | 0
+Matraman 1 | -6.2001059 | 106.854531 | Jalan Matraman Raya | 0
+Pinang Ranti | -6.2912128 | 106.886484 | Jl. Pondok Gede | RT.14/RW.2
+Pulo Mas | -6.1747405 | 106.892805 | Perintis Kemerdekaan | 0
+RS Islam | -6.1685757 | 106.870449 | Jalan Letjen Suprapto | 0
+Halte Sunan Giri | -6.1932372 | 106.8836 | Jalan Pemuda | 0
+Halte UNJ | -6.1929112 | 106.880174 | Jalan Pemuda | 0
+Halte Velodrome | -6.1934269 | 106.88805 | Jalan Pemuda | 0
+Alfamart | -6.2858914 | 106.830036 | nil | 0
+Indomaret | -6.2859278 | 106.830078 | nil | 0
+Alfamart | -6.155718 | 106.831156 | nil | 0
+Al Muqarrabiin | -6.3640364 | 106.853416 | nil | 0
+Kantor Kelurahan Tugu | -6.3653791 | 106.850112 | nil | 0
+The Grove Suites | -6.2169073 | 106.834637 | nil | 0
+Masjid Asy-Syuhada | -6.356499 | 106.848701 | nil | 0
+7Eleven | -6.170082 | 106.871296 | nil | 0
+OmiqloBadut | -6.293008 | 106.900853 | Al Baidho Raya | Rt.06/06 No.53
+Masjid Al-Awwabin | -6.2670804 | 106.978222 | Jalan Bacang Raya | 0
+Agen Resmi Lulur Nature Organic : Ibu Nisa | -6.3572953 | 106.850856 | Jalan Alamanda | RT 02/07 No.78
+Mesjid Nurul Muttaqin | -6.2625737 | 106.979005 | nil | 0
+Indomaret | -6.3051103 | 106.850293 | nil | 0
+Lapangan RT 09 Vila Mahkota Pesona | -6.3234196 | 106.962922 | nil | Bojongkulur
+Ewok Steam and Cafe | -6.3232437 | 106.962147 | nil | Vila Mahkota Pesona, Bojongkulur
+Masjid Sakinah Warrahmah | -6.3213972 | 106.962319 | Jalan Mahkota Raya | Vila Mahkota Pesona, Bojongkulur
+Lapangan RT 10 Vila Mahkota Pesona | -6.3241217 | 106.963500 | nil | Vila Mahkota Pesona, Bojongkulur
+Lapangan Bulutangkis RT 09 Vila Mahkota Pesona | -6.3239618 | 106.962631 | nil | Vila Mahkota Pesona, Bojongkulur
+Kantor Kepala Desa Bojongkulur | -6.3229257 | 106.968983 | Jalan Raya Ciangsana | 0
+7-Eleven | -6.176604 | 106.83072 | nil | 0
+SDN 01 Bojongkulur | -6.3167395 | 106.968553 | nil | 0
+SDN 03 Bojongkulur | -6.3240521 | 106.966837 | nil | 0
+SDN 02 Bojongkulur | -6.3304848 | 106.968237 | Jalan Raya Ciangsana | 0
+Pos Polisi Vila Nusa Indah 2 Bojongkulur | -6.319616 | 106.968784 | Jalan Raya Ciangsana | 0
+SMAN 07 Kota Bekasi | -6.366388 | 106.921411 | Jalan Lingkar Kota | 0
+RM Padang | -6.3046689 | 106.850003 | nil | 0
+Alfamart | -6.3095683 | 106.851055 | nil | 0
+Gerbang Direktorat Topografi | -6.1741301 | 106.848698 | nil | 0
+Kanpai Kedai Jepang | -6.2574201 | 106.853117 | Kalibata City Tower Cendana | AL-01
+Alfamart | -6.3076304 | 106.838906 | nil | 0
+Pisang Pasir | -6.3041599 | 106.844909 | nil | 0
+Ayam Bakar Mas Mono | -6.2281498 | 106.855646 | nil | 0
+Soto Gebrak! | -6.2246476 | 106.852397 | nil | 0
+Sop Konro | -6.2239976 | 106.851688 | nil | 0
+Bakmi Toko TIga | -6.2413781 | 106.847381 | nil | 0
+Indomaret Point Tebet Supomo | -6.2291635 | 106.84744 | Jl. Prof Supomo | 321
+Al Magfirah | -6.3661818 | 106.859916 | nil | 0
+TA &amp; TK Al-Azhar Syifabudi Jatibening | -6.2563285 | 106.940452 | nil | 0
+kantor RT .016/04, cempaka baru | -6.1683184 | 106.865164 | nil | 0
+Perumahan Komplek Dki | -6.2410527 | 106.940114 | Jl. H. Naman/Komplek Dki, RT.9/RW.2, Pd. Klp., Duren Sawit | 0
+Grand Whiz Hotel | -6.1533567 | 106.8968 | Jalan Bukit Gading Raya | Kav. 1
+Huk Family Resto | -6.1760647 | 106.859766 | Jl. Cempaka Putih Raya , Cempaka Putih, Cemp. Putih Bar., Cemp. Putih | 17
+wahid | -6.3687755 | 106.836371 | nil | 0
+Labschool Cibubur | -6.3435293 | 106.925146 | Jl. Raya Hamkam Kampus Labschool, Jatiranggon, Jati Sampurna, | No.15-20
+Bloem Steen Hostel | -6.1847168 | 106.830086 | nil | 0
+황금식당 | -6.1587725 | 106.907068 | nil | 0
+Patung Ondel-ondel | -6.1599971 | 106.851751 | nil | 0
+Ketan Susu Kemayoran | -6.1608148 | 106.849245 | nil | 0
+VW CENTER KEMAYORAN | -6.1585436 | 106.841175 | Jalan Angkasa | 18
+A&amp;W-HALIM PERDANAKUSUMA | -6.2651474 | 106.88502 | Jl. Protokol Halim Perdana Kusuma | No.15
+Pool Bus Primajasa Cililitan | -6.2577516 | 106.869069 | Jalan Mayjend. Sutoyo | 32
+Pop! Hotel Tebet - Jakarta | -6.232973 | 106.844754 | Jl. Prof. Dr. Supomo | 29
+Masjid Baiturrahman | -6.2902514 | 106.970178 | Jalan Kalimantan | 0
+Gedung Olahraga | -6.2887257 | 106.967606 | Jalan Swatantra 2 | 0
+Apartemen Casablanca East Residences | -6.2249848 | 106.898932 | Jalan Pahlawan Revolusi | No.12
+PT Gudang Garam Tbk | -6.1717737 | 106.876712 | Jl. Jenderal Ahmad Yani, Cempaka Putih Timur, Cempaka Putih, Daerah Khusus Ibukota Jakarta | No. 75-79
+Menara Kadin | -6.2325261 | 106.83195 | Jalan HR Rasuna Said | no. 2-3
+Menara Palma | -6.2269513 | 106.833427 | Jalan HR Rasuna Said | X2 Kav 6
+Rabbani - Rawamangun | -6.1930627 | 106.884372 | Jl. Pemuda | Nomor. 1 RT.8/RW.4
+Grand Galaxy Park | -6.270519 | 106.971891 | Jl. Grand Galaxy Boulevard | No.1
+Menara Cyber 2 | -6.226389 | 106.832700 | Jl. H. R. Rasuna Said Blox X-5 | No. 13
+Gading Icon Apartemen Rosewood Tower | -6.181782 | 106.90462 | Jl Perintis Kemerdekaan | Kav 99
+Hotel Bidakara Jakarta | -6.2403547 | 106.84233 | Jl. Jend. Gatot Subroto | Kav. 71-73
+Hotel Borobudur Jakarta | -6.1723652 | 106.834412 | Jalan Lapangan Banteng Selatan | No.1
+Fave Hotel PGC Cililitan | -6.2625198 | 106.865608 | Jl. Mayjen Sutoyo | No.76
+East Park Apartment | -6.203661 | 106.925562 | Jl. KRT Radjiman | 0
+McDonald's Salemba | -6.1950116 | 106.850105 | Jl. Salemba Raya | Kav. 31
+Hotel Dafam Teraskita | -6.2455126 | 106.874524 | Jl. MT Haryono Kav. 10A | 0
+Comic Cafe | -6.2282926 | 106.855093 | Jalan Tebet Raya | No.53D
+McDonald's - Duren Sawit | -6.227518 | 106.922777 | Jl. Radin Inten II | 0
+Cervino Apartment | -6.2248913 | 106.851429 | Jl. KH. Abdullah Syafi'ie Kav. 27 | 0
+McDonald's Otista Raya | -6.2371244 | 106.869244 | Jalan Otto Iskandar Dinata | Kav. 125-127
+Plaza Kalibata | -6.2573238 | 106.857004 | Jl. Kalibata Raya No.1 | 0
+Melly's Garden Bar &amp; Resto | -6.184071 | 106.830389 | Jl. Kebon Sirih Timur | No 37-39
+Casagrande Residence Jakarta | -6.2245965 | 106.841687 | Jl. Kasablanca Raya | No.88
+Green Pramuka City | -6.1883824 | 106.875337 | Jalan Jendral A. Yani, Rw. Sari, Cemp. Putih | Kav. 49
+Green Terrace | -6.3021942 | 106.884763 | Jl. Pintu Utama 1, Taman Mini | Blok D No. 5
+Menara Karya | -6.2331447 | 106.831441 | JL. H.R. Rasuna Said | Kav 1-2
+PT. Astra Honda | -6.1620925 | 106.881331 | Jl. Laksda Yos Sudarso | RT.2/RW.9
+Bakrie Tower Epicentrum | -6.219277 | 106.834675 | Epicentrum Utama Raya, Jl. Rasuna Said | 0
+Hotel Aston Rasuna | -6.2192261 | 106.836598 | Jl.HR Rasuna said | 0
+Arion Mall | -6.1938209 | 106.890549 | Jl. Pemuda Kav. 3-4 | 0
+Apartemen The Green Pramuka City | -6.1891306 | 106.872578 | Jalan Jendral A. Yani Kav 49 | 0
+Rusun Griya Tipar Cakung (RGTC) | -6.1706943 | 106.938126 | Blok Cendana Komplek RGTC, Cakung Barat | 0
+Kramat | -6.1937143 | 106.856592 | nil | 0
+Pondok Cina | -6.3688983 | 106.832277 | Jl. Stasiun Pondok Cina | No. 1
+Apartemen Margonda Residence | -6.3639891 | 106.834257 | Jl. Margonda Raya Kav. 462 - 465 | 0
+M.T. Haryono Square | -6.2437083 | 106.868919 | Jl. MT Haryono | RT.6/RW.12
+Apartemen Graha Cempaka Mas | -6.1648466 | 106.876172 | Jl. Letjen. Suprapto | No. 1
+Universitas Indonesia | -6.360392 | 106.831730 | Jalan Stasiun UI | 0
+Sentra Timur Residence | -6.205011 | 106.947661 | Jl. Sentra Primer Tim., Pulo Gebang, Cakung | RW.6
+Setiabudi One | -6.2146977 | 106.830007 | Setiabudi One, Jl. Hr. Rasuna Said | No.63
+Hypermart Kelapa Gading Trade Center | -6.1550261 | 106.892867 | Jl. Boulevard Bar. Raya | 0
+Patung Dirgantara - Tugu Pancoran | -6.2430796 | 106.843516 | Jalan Gatot Subroto | RT. 1/RW. 1
+ITC Cempaka Mas Main Entrance | -6.1657047 | 106.877370 | Jalan Letjen. R. Suprapto | Kav. 1
+Pasar Jaya. PD | -6.1611197 | 106.832989 | JL. KH. Samanhudi | 0
+Universitas Gunadarma Kampus E | -6.3545691 | 106.841709 | Jalan Akses UI | 0
+Universitas Gunadarma Kampus D | -6.3685071 | 106.833633 | Jalan Raya Margonda | No.100
+Perumahan DPR RI Kalibata | -6.2529279 | 106.85069 | Jalan DPR raya | RT.12/RW.5
+Plaza 89 | -6.2177986 | 106.830771 | Jalan HR Rasuna Said | Kav. X - 7 No.6
+Warunk Upnormal | -6.1763764 | 106.872609 | Jl. Cempaka Putih Raya | No. 102
+Plaza Kuningan, Menara Selatan | -6.2172229 | 106.831178 | Jalan HR Rasuna Said | 0
+Kalbis Institute | -6.1789536 | 106.877305 | Jl. Pulo Mas Selatan | Kav. 22
+Kalibata City - Tower Jasmine | -6.2571113 | 106.851565 | Jalan Kalibata Raya, Rawajati | 1
+MT Haryono Square (MTH Square) | -6.2440665 | 106.868833 | Jalan Otista Raya | No. 390, Kav. 10
+KFC Lenteng Agung | -6.345044 | 106.833723 | Jalan Raya Lenteng Agung | Nomor 18
+MNC Tower Side Entrance | -6.1837256 | 106.831368 | Jalan Kebon Sirih Timur | No.19
+McDonalds Kelapa Dua | -6.35484 | 106.844415 | Jalan Akses UI | No. 59
+Sunter Park View | -6.1574793 | 106.884081 | Jl. Laksamana Yos Sudarso, Sunter Jaya, Tanjung Priok | 0
+HARRIS Hotel &amp; Conventions Kelapa Gading | -6.157575 | 106.910535 | Jl. Bulevar Kelapa Gading Blok M | 0
+Bumi Mutiara | -6.3303621 | 106.969464 | Jl. Bumi Mutiara | 0
+KFC Salemba Jakarta | -6.194805 | 106.849994 | Jalan Salemba Raya | No. 29, RT. 001/06
+Kramat Sentiong | -6.188264 | 106.846525 | Jl. Kramat Sentiong | No.12A,RT.1/RW.7
+La Piazza | -6.1595135 | 106.906356 | Jl. Bulevar Kelapa Gading | Blok M
+Jalan Tanjung Lengkong | -6.2398637 | 106.866491 | Tanjung Lengkong | 0
+Whiz Hotel | -6.1883111 | 106.836686 | Jalan Cikini Raya | Nomor 6
+Wisma Bakrie 2 | -6.2124923 | 106.830148 | Jalan HR Rasuna Said | Kav B1
+Jalan Kebon Nanas Selatan II | -6.2334833 | 106.871136 | Jalan Kebon Nanas Selatan II | 0
+Mediterania Boulevard Residences | -6.1556153 | 106.851917 | Jalan Benyamin Sueb | Blok A1
+Amaris Hotel Pancoran | -6.2474683 | 106.843204 | Jl. Raya Pasar Minggu | No.15
+Amaris Hotel Pasar Baru | -6.1604629 | 106.837210 | Jl. Pasar Baru Timur No.21 | 0
+Whiz Prime Hotel | -6.1532452 | 106.892458 | Jl. Boulevard Bar. Raya | Blok LA1 No.2
+Fave Hotel Jakarta Gading | -6.1611909 | 106.908250 | Jl. Gading Indah Raya | No.8 Blok C-32
+Favehotel Pasar Baru | -6.1599734 | 106.835932 | Jl. K.H Samanhudi | No. 26
+Holland Village | -6.1671797 | 106.876449 | Jl. Letjen R. Suprapto | 0
+Superoti | -6.1568767 | 106.830366 | Gedung Training Center Matahari, Jl. A. Karang Anyar | Nomor 27
+MMI Indonesia | -6.2183395 | 106.835487 | EPIWALK (Epicentrum Walk), Komplek Rasuna Epicentrum, Jl. Rasuna Said | Building suite B-717
+DataComm | -6.2404089 | 106.830294 | Jl. Kapten Tendean | Nomor 18A
+Rumah | -6.1825886 | 106.84559 | Jalan Kramat Pulo | 56a
+Hotel Lautze Indah | -6.1573337 | 106.834853 | Jalan Lautze | 24
+Mall of Indonesia (Main Entrance) | -6.1516037 | 106.89177 | Jalan Boulevard Barat Raya, Kelapa Gading, Jakarta Utara, Indonesia | 0
+18 Office Park | -6.29906 | 106.831806 | Jalan Tahi Bonar Simatupang | No.18
+Graha Adira | -6.2434508 | 106.853766 | Jalan Letjen M. T. Haryono | 42
+Graha Intirub | -6.2652246 | 106.876782 | Cilitan Besar | 0
+Graha Irama | -6.2335398 | 106.831646 | Jl. H. R. Rasuna Said Blok Kav 1 | 2
+Graha Kirana | -6.1506899 | 106.887837 | Jl. Laksamana Yos Sudarso | 88
+Kalibata City - Tower Raffles | -6.257159 | 106.851185 | Jalan Kalibata Raya, Rawajati | 1
+Graha MIR | -6.192699 | 106.880624 | Jalan Pemuda | 9
+Graha Mustika Ratu | -6.2421315 | 106.842197 | Jl. Jend. Gatot Subroto | 74 - 75
+7-ELEVEN Pondok Bambu - Sevelin Kiosk | -6.2323835 | 106.897404 | Jalan Pahlawan Revolusi | No. 3, RT 003 03
+PT. Sucofindo (Persero) - Head Office | -6.2519626 | 106.842332 | Jalan Raya Pasar Minggu | 34
+Graha XL Menteng | -6.1841363 | 106.830255 | Jln. H.Agus salim | 45
+Abunawas Restaurant | -6.2005439 | 106.852869 | Jalan Matraman Raya | 15
+All Fresh, Kayu Putih | -6.1796909 | 106.891914 | Jalan Kayu Putih Raya, Korean Town Pulomas, | 0
+Amped Trampoline Park | -6.1731436 | 106.894250 | Jalan Kirana Avenue No.88 | Pergudangan Eks Goro
+Grand Prima Bintara | -6.2200188 | 106.955340 | Jalan Baru I, Gusti Ngurahrai | 0
+SnowBay Waterpark TMII | -6.3002591 | 106.890859 | Jl. Pintu II, Komplek Taman Mini Indonesia Indah, Taman Mini Indonesia Indah, Daerah Khusus Ibukota Jakarta | 0
+Grand Whiz Hotel | -6.1524272 | 106.895618 | Jalan Bukit Kelapa Gading Raya | 0
+Soepomo Office Park | -6.2306111 | 106.846911 | Jl. Prof. DR. Supomo, Tebet, Daerah Khusus Ibukota Jakarta | 0
+Sofyan Hotel Cut Meutia | -6.1874751 | 106.834264 | Jl. Cut Meutia, Cikini, Menteng | 9
+Sofyan Inn Tebet | -6.2368755 | 106.844429 | Jl. Prof Dr Soepomo SH, Tebet Barat, Tebet | 23
+Griya Bintara Indah | -6.2213291 | 106.959474 | Jalan I Gusti Ngurah Rai, Bintara | 0
+Halte Bidara Cina | -6.2299026 | 106.8672 | Kp. Melayu, Jatinegara | 0
+Halte Karet Kuningan | -6.2172115 | 106.830844 | Jalan Haji R. Rasuna Said | 0
+Halte Asmi | -6.171789 | 106.888841 | Klp. Gading Bar., Klp. Gading | 0
+Halte Pal Putih | -6.1816483 | 106.842874 | Jalan Kramat Raya | 0
+Apartemen Tifolia | -6.1752306 | 106.89282 | Jl. Perintis Kemerdekaan | No.23
+Apartemen Wisma Gading Permai | -6.1679269 | 106.90094 | Jalan Kelapa Gading Boulevard | 0
+AQL Center | -6.2256674 | 106.852744 | Jl. Tebet Utara I | No.40, RT.8/RW.2,
+Halte Danau | -6.2557301 | 106.849411 | Jalan Kalibata | 0
+Arina Multi Karya | -6.1885157 | 106.874896 | Jalan Rawasari Selatan | No. 14
+Halte Kota Harapan Indah 2 | -6.1939264 | 106.973627 | Jalan Raya Bekasi Timur | 0
+Aston Priority Simatupang Hotel &amp; Conference Center | -6.3013793 | 106.835154 | Jl. Let. Jend. T.B. Simatupang Kav., Kebagusan, RT.9 | 0
+Kemang Ifi Graha (Main Entrance) | -6.2965617 | 106.969955 | Jalan Gamelan Raya | 0
+Bakoel Koffie | -6.1879102 | 106.836907 | Jl. Cikini Raya | No.25, RT.16/RW.1
+Balai Samudra | -6.153429 | 106.890785 | Jl. Boulevard Bar. Raya No.1 | 0
+Hotel Gren Alia Prapatan | -6.1809488 | 106.838195 | Jl. Prapatan Raya | 28
+Bamboo Dim Sum | -6.2259636 | 106.858570 | Jl. Tebet Raya | No. 78B
+KFC Harapan Indah | -6.1919487 | 106.974906 | Jalan Harapan Indah Raya | 0
+KFC Jati Asih | -6.2951221 | 106.959640 | Jalan Wibawa Mukti | 2
+KFC Raden Inten | -6.2224439 | 106.92347 | Jalan Radin Inten | 2
+Kirana Boutique Office | -6.174447 | 106.8962 | Jl. Boulevard Raya | 1
+Kirana Two Office Tower (Main Entrance) | -6.1656327 | 106.914016 | Jl. Boulevard Timur | 88
+Hotel Pasar Baru | -6.1651784 | 106.834560 | Pasar Baru Selatan | 6
+Puri Kwitang Hotel | -6.181628 | 106.840286 | Jalan Kramat Kwitang 1 | 11A
+Hotel Salemba Jakarta | -6.1913991 | 106.850569 | Jalan Paseban Barat 4 | 22
+Mahaka Square | -6.1501786 | 106.90272 | Jl. Raya Kelapa Nias HF 3 | 0
+Bebek Kaleyo 6 | -6.225605 | 106.856731 | Jalan Lapangan Roos No.49 | 0
+Hotel Santika Premiere Harapan Indah | -6.1853832 | 106.975727 | Jl. Harapan Indah Boulevard | 10 - 12
+Hotel Sentral | -6.1921696 | 106.864727 | Jalan Pramuka Raya | 63 - 64
+Komnas Perempuan | -6.2045437 | 106.835339 | JL. Latuharhary | 4B
+Infinia Park | -6.2127738 | 106.846098 | Jl. Dr. Saharjo | 45
+Taman Makam Pahlawan Kalibata | -6.2557353 | 106.846593 | Jalan Kalibata | 0
+Komplek Kodam Jaya Jatiwarna (Main Entrance) | -6.3018007 | 106.92395 | Jalan Hankam Raya | 0
+Bluebird Pool Sutoyo | -6.2489648 | 106.878263 | Jl. Halim Perdana Kusuma | No. 1
+Jakarta Garden City | -6.1771452 | 106.957101 | Jakarta Garden City | 0
+Bina Sarana Informatika Margonda | -6.3575291 | 106.832859 | Jalan Raya Margonda | No.8
+Komplek PTB Duren Sawit | -6.2210584 | 106.910743 | Jl. Duren Sawit Timur | 0
+Perumahan DPR RI Kalibata (Main Entrance) | -6.2540033 | 106.851417 | Jalan Deper Raya | 0
+Jl. Al Furqon | -6.1802046 | 106.944543 | Jalan Cakung Cilincing Timur | 0
+Komplek TNI AU Triloka (Main Entrance) | -6.2461285 | 106.842725 | Jalan Triloka | 0
+Komplek Billy Moon (Main Entrance) | -6.2481534 | 106.929080 | Jl. Raya Kalimalang | 0
+Bukit Cengkeh II | -6.3631279 | 106.854844 | Jalan Bukit Cengkeh Timur | 0
+Hotel JS Luwansa | -6.2227643 | 106.833249 | Jalan HR Rasuna Said | 22
+Joni Steak | -6.1616561 | 106.830999 | Jalan KH Samanhudi | 65
+Bumi Satria Kencana | -6.2472847 | 106.977782 | Jalan Raya Kalimalang | 0
+Jatinegara X'tainment | -6.2205795 | 106.867882 | Jalan Jatinegara Timur | 60 - 62
+Camden Bar | -6.1907888 | 106.837539 | Jalan Cikini Raya 2 | No. 1
+Cimanggis Square | -6.3570498 | 106.859663 | Jl. Raya Bogor KM. 29 | 0
+Cipta Hotel Pancoran | -6.247309 | 106.843196 | Jalan Raya Pasar Minggu Kav. 19 | 0
+Jalan Boulevard Gading | -6.1672325 | 106.901289 | Kelapa Gading Boulevard | 0
+Crematology Coffee Roasters | -6.2287719 | 106.833880 | Jl. Hr. Rasuna Said No.Kav X2/1 | 0
+LBPP LIA Galaxy | -6.24909 | 106.969349 | Jl. Taman Galaxi Raya | 0
+Perkantoran Hijau Arkadia | -6.3005961 | 106.833963 | Jalan T.B. Simatupang Kav.88 | 0
+Cipinang Pulo Maja | -6.2190104 | 106.880407 | Cipinang Pulo Maja | 0
+Pertamina Maritime Training Centre | -6.1933636 | 106.898849 | Jalan Pemuda, Rawamangun, | 44
+Duren Tiga Selatan VII | -6.2598463 | 106.830637 | Duren Tiga Selatan 7 | 0
+Perum Wahana Pondok Gede | -6.3429666 | 106.936011 | Jl. Raya Al, Jatiranggon, Jatisampurna | 0
+Tanjung Barat | -6.3116577 | 106.838486 | Jl tanjung barat | 0
+Eat Happens Tebet | -6.2281192 | 106.855253 | l. Tebet Utara Dalam | No.2A, RT.9/RW.1
+Mall Kelapa Gading 3 Main Entrance | -6.1569905 | 106.907740 | Jl. Bulevard Timur | 1
+Mall Kelapa Gading 2 Main Entrance | -6.1583087 | 106.907050 | Jl. Bulevard Timur | 1
+Perumahan Aneka Elok | -6.1934452 | 106.939120 | Jalan Penggilingan Elok, RT. 3 / RW. 9, Pulo Gebang, Cakung, | 0
+Mall Kelapa Gading 1 Main Entrance | -6.159001 | 106.906625 | Jl. Bulevard Timur | 1
+Euro Management Indonesia | -6.1883193 | 106.836049 | Jalan RP Suroso No.6 | 0
+Perum Gading Arcadia | -6.1644663 | 106.917198 | Jalan Pegangsaan Dua RW. 3, Pegangsaan Dua, Kelapa Gading | 0
+Perumahan Graha Indah | -6.2870867 | 106.952571 | Jalan Raya Jati Asih | 0
+Perumahan Jakapermai | -6.2489802 | 106.968846 | Jalan Raya Kalimalang, Jaka Sampurna, Bekasi Barat | 0
+Perumahan Jatibening II | -6.2622479 | 106.938638 | Jalan Hanjuang VII Blok H7 , Jatibening Baru, Pondok Gede | 117
+Jengki | -6.2605095 | 106.87806 | Jengki | 0
+Gedung Gading Marina | -6.1553854 | 106.895626 | Jl. Boulevard Barat Raya | No.1
+Kalibata Tengah | -6.2618498 | 106.83441 | Kalibata Tengah | 0
+Jl. Kapuk | -6.3059999 | 106.913710 | Jl. Kapuk | 0
+Perumahan Puri Gading | -6.3113288 | 106.94007 | Puri Gading Pondok Gede, Jalan Vila Carita Blok F1 , Jatimelati, Pondokmelati, | 1
+Perumahan Tanjung Barat Indah | -6.3044318 | 106.846336 | Jl. TB Simatupang | 0
+Perumnas 1 Bekasi Barat | -6.2395443 | 106.977042 | Jalan Flamboyan 6, Bekasi Barat | 0
+McDonald's Jatiwarna | -6.3111594 | 106.924476 | Jalan Hankam Raya | 31
+McDonald's Kota Harapan Indah | -6.1913193 | 106.976447 | Jl. Medan Satria Boulevard Harapan Indah | 24
+McDonald's Gading Kirana | -6.1746953 | 106.89605 | Jalan Kelapa Gading Boulevard A1 | 6
+McDonald's Arion Mall | -6.1938567 | 106.890053 | Jalan Pemuda | 3-4
+Jl. Kebon Nanas Utara II | -6.2306745 | 106.872048 | Jl. Kebon Nanas Utara II | 0
+PHE Tower | -6.2999151 | 106.832941 | Jl. Tb. Simatupang kav. 99 | 0
+McDonald's Grand Kota Bintang | -6.2493797 | 106.956962 | Jl. KH. Noer Alie | 0
+Pinang Ranti Mansion | -6.2851918 | 106.881502 | Jl. Pusdiklat Depnaker, Pinang Ranti, Makasar, Pinang Ranti | 0
+McDonald's Jatiwaringin Bekasi | -6.268293 | 106.911476 | Jl. Raya Jatiwaringin | 26
+McDonald's Pusat Grosir Cililitan | -6.26266 | 106.865379 | Jl. Letjend Sutoyo | 76
+McDonald's TB Simatupang | -6.3038093 | 106.847939 | Jalan TB. Simatupang | 0
+McDonalds Kalibata Mall | -6.2572853 | 106.8568 | Jalan Kalibata | 141
+Restoran Pizza Hut - Gatot Subroto Jakarta | -6.2414782 | 106.839534 | Jl. Jenderal Gatot Subroto, Kav. 1000, RT 10 RW 01, Tebet, Menteng Dalam | 0
+Keuangan | -6.2539081 | 106.831325 | Keuangan | 0
+Golden Stick Billiard | -6.3551511 | 106.840325 | Jl. Akses Ui | No.26
+Menara Bidakara | -6.241494 | 106.841371 | Jl. Tol Cawang Grogol | 0
+GOR Velodrome Rawamangun | -6.1931809 | 106.88909 | Jalan Pemuda | 0
+Menara MTH | -6.242936 | 106.855100 | Jalan Letjen M. T. Haryono | 23
+TPU Pondok Ranggon | -6.3629341 | 106.90983 | Jalan Raya Kranggan | 0
+Kementerian Kesehatan Poltekkes Kemenkes Jakarta III | -6.3095575 | 106.926487 | Jl. Arteri Jorr Jatiwarna, Jatiwarna, Pondokmelati | 0
+MNC Tower Main Entrance | -6.1839086 | 106.83194 | Jalan Kebon Sirih | 17
+Pondok Cipta | -6.2300933 | 106.960151 | Jalan Raya Pondok Cipta, Bintara, Bekasi Barat | 0
+Tugu Tani | -6.182675 | 106.834816 | Jalan Menteng Raya | 0
+MT Haryono Residence Apartment (Main Entrance) | -6.2435667 | 106.868555 | Jl. Otista 2 | 60
+Universitas Islam As-Syafi'iyah | -6.2621459 | 106.910626 | Jalan Jatiwaringin Raya | No.12
+Pondok Melati Indah | -6.3044723 | 106.932369 | Jalan Raya Pasar Kecapi, Jatiwarna | 0
+Pondok Kelapa Village | -6.2384157 | 106.940718 | Jalan Haji Naman, RT.2/RW.2, Pondok Kelapa, Duren Sawit | 0
+Universitas Krisnadwipayana | -6.2632305 | 106.908364 | Jl. Raya Jatiwaringin | 0
+Kramat 5 | -6.1882708 | 106.842507 | Jalan Kramat 5 | 0
+Pondok Pekayon Indah | -6.2637648 | 106.975917 | Jalan Pakis Raya Timur Blok BB30, Pekayon Jaya, Bekasi Selatan, Pekayon Jaya | 5
+Naga Swalayan Kranji | -6.2250838 | 106.979556 | Jl. Sultan Agung | 57
+Pool Damri Kemayoran | -6.1597388 | 106.848078 | Jalan Angkasa, Kemayoran, Gunung Sahari Sel., Kemayoran | 17
+OMDC (Oktri Manessa Dental Clinic) | -6.2691507 | 106.831126 | Jalan Warung Jati Barat | 6
+Jl. Margonda Raya Gg. Kober | -6.3593023 | 106.834369 | Jalan Kober | 0
+OTW Food Street | -6.1702835 | 106.903443 | Jl. Kelapa Kopyor Raya Blok BA 2 | 1
+P Hotel | -6.19214 | 106.867358 | Jalan Pramuka | 0
+Menteng Jaya | -6.2063118 | 106.843388 | Menteng Jaya | 0
+Indonesia International Institute for Life-Sciences | -6.1791793 | 106.878488 | Jalan Pulo MAS Barat 3 | No.88
+Paladian Park Apartment (Main Entrance) | -6.1528913 | 106.896862 | Jl. Bukit Gading Raya | 0
+Pal Batu 3 | -6.2265382 | 106.841892 | Pal Batu 3 | 0
+PT. Antam Resourcindo | -6.3023973 | 106.834102 | Jl. Let Jend TB Simatupang, Kebagusan, Ps. Minggu | kav. 88
+V Hotel | -6.241888 | 106.844660 | Jalan Prof. Dr. Soepomo | 0
+Pulomas Residence | -6.1754507 | 106.887628 | Jl. Pulo Mas Timur, Pulo Gadung | 369
+CHC Clinic | -6.1846306 | 106.831706 | MNC Tower, Jl. Kebon Sirih | No.17 - 19, RT.15/RW.7
+Vila Mahkota Pesona | -6.321267 | 106.962812 | Jalan Mahkota Raya | 0
+Yes Care | -6.1867969 | 106.830845 | Jl. K.H. Wahid Hasyim | No.31C, RT.16/RW.6
+Vila Nusa Indah | -6.3024176 | 106.970272 | Jalan Nusa Indah Utama | 0
+Red Planet Hotel Pasar Baru Red Planet Hotel | -6.1601527 | 106.83445 | Jl. KH. Samanhudi, Pasar Baru | 25
+MaxOne Hotel Pemuda | -6.1927035 | 106.880784 | Jalan Pemuda | 9
+Sawo 3 | -6.2165843 | 106.845543 | Sawo 3 | 0
+ropisbak ghifari grab | -6.2499015 | 106.908162 | Jl. Pangkalan Jati III, Cipinang Melayu, Makasar | 11
+Klinik Suci Husada | -6.2717215 | 106.867357 | JL Suci, No. 21 | 0
+Roti Pisang Bakar (Ropisbak) Ghifari | -6.1973271 | 106.886280 | Jl. Balai Pustaka Tim. , Rawamangun, Pulo Gadung, | 25
+Treva International | -6.1864527 | 106.836667 | Jalan Menteng Raya No.33, RT. 1/10 | 0
+Gading Indah Hotel | -6.1599436 | 106.917453 | Jl. Pegangsaan Dua No.10 | 0
+Hotel Bintang Griyawisata | -6.1902725 | 106.844075 | Jalan Raden Saleh | No.16
+Alpine Hotel | -6.1556857 | 106.836632 | Jl. Gunung Sahari Raya | No.35, RT.3/RW.5
+The Summit Apartment | -6.1587005 | 106.909219 | JL. Boulevard Sentra Kelapa Gading | 0
+Sasmitaloka Pahlawan Revolusi Jenderal Ahmad Yani | -6.2046896 | 106.8366 | Jl. Lembang Terusan No.D No.58 | 0
+Museum Purna Bhakti Pertiwi | -6.3005846 | 106.886410 | Jl. Raya Taman Mini, | 0
+Embassy of Greece | -6.2180122 | 106.830214 | Jl. HR. Rasuna Said Kav X-7 No.6 | 0
+Jalan Tebet Utara 1 | -6.2275797 | 106.852792 | Jalan Tebet Utara 1 | 0
+Jalan Tebet Timur Raya | -6.2357529 | 106.853577 | Jalan Tebet Timur Raya | 0
+Rumah Sakit Ananda Bekasi | -6.2112434 | 106.977537 | Jl. Sultan Agung, Medan Satria | 173
+Rumah Sakit Anna | -6.2750066 | 106.976798 | Jalan Pekayon Raya, Jakasetia, Jakasetia, Bekasi Sel. | 36
+Rumah Sakit Hermina Galaxy | -6.2686369 | 106.97200 | Jl. Gardenia Raya Blok BA-1 | 11
+Sentra Pendidikan BRI | -6.2417716 | 106.836392 | Jalan Jendral Gatot Subroto | 173
+Apartemen Signature Park | -6.2425271 | 106.854820 | Jalan Letjen M. T. Haryono | 22
+Setiabudi | -6.225604 | 106.832931 | Setiabudi | 0
+Rumah Sakit Umum Bunda Margonda | -6.3652772 | 106.834505 | Jalan Raya Margonda, Pondok Cina, Beji | 0
+Rumah Susun Bidara Cina | -6.2412822 | 106.868285 | Jalan Otista Raya, Jatinegara | 15
+KFC Tebet | -6.2295411 | 106.848733 | Jalan Tebet Utara Raya No. 10 | 0
+KFC MT Haryono | -6.2430249 | 106.846805 | Jl.Letjen MT Haryono Kav.7 | 0
+KFC Jatinegara | -6.2225129 | 106.867803 | Jl. Jatinegara Timur No.84 | 0
+KFC Kalimalang | -6.2453959 | 106.909958 | Jl. Masjid Al-Wustho Blok E No.18 | 0
+KFC Kelapa Gading | -6.1572175 | 106.907163 | Jl. Boulevard Raya Blok LB No. 1-3 | 0
+The Hermitage Jakarta | -6.1981409 | 106.838052 | Jl. Cilacap No.1 | 0
+Lara Djonggrang | -6.1942131 | 106.836173 | Jalan Teuku Cik Ditiro No.4 | 0
+Sakura Regency | -6.3087573 | 106.955336 | Jalan Bunga Sakura Raya, Jatiasih, Bekasi Selatan | 0
+San Fransisco Apartment at Moi | -6.1501696 | 106.890593 | Jl. Raya Boulevard Barat , Apartment Mall of Indonesia, San Francisco Bay 2318, West Kelapa Gading | 1
+Sasana Kriya | -6.3030413 | 106.891942 | Jalan Raya Taman Mini, Ceger, Cipayung | 0
+Smesco Indonesia | -6.2417867 | 106.836237 | Jalan Jenderal Gatot Subroto | 94
+McDonald's Pondok Bambu | -6.2465241 | 106.90821 | Jl. Inspeksi Saluran Kalimalang E 7 | 0
+McDonald's Pahlawan Revolusi | -6.2389395 | 106.899838 | Jalan Pahlawan Revolusi No.123 | 0
+Lapangan Banteng Pintu Timur | -6.1709901 | 106.833703 | Jalan Lapangan Banteng Timur | 0
+Lapangan Banteng Pintu Barat | -6.1696367 | 106.836290 | Jalan Lapangan Banteng Timur | 0
+Bursa Mobil Kelapa Gading | -6.1615885 | 106.907173 | Jalan Kelapa Gading | 0
+Pasar Mobil Kemayoran | -6.1516882 | 106.844374 | Jalan Industri Raya | 0
+Gereja Katolik St. Servatius | -6.3228205 | 106.937622 | Jl. Raya Kampung Sawah | No. 75, RT 006 RW 004
+Paroki Lubang Buaya – Kalvari | -6.284925 | 106.901604 | Jl. Pondok Gede, RT.7/RW.3 | 0
+Paroki Kranji Santo Mikael | -6.2324533 | 106.969407 | Jl. Bintara Raya No. 38 | 0
+Total Buah Segar Waru | -6.1965176 | 106.889664 | Waru | 0
+Gereja Katolik St. Bartolomeus | -6.2684263 | 106.973317 | JL. Gardenia Utara, No. 35, Villa Galaksi Blok AA1 | 0
+Total Buah Segar Boulevard Raya | -6.1689916 | 106.900331 | Kelapa Gading Boulevard | 0
+Toko Buah Segar RS Fadilah | -6.3310216 | 106.845808 | Jalan Ra. Fadilah | 0
+Gudang Buah Segar Abadi Ruko Kranji | -6.2291892 | 106.976665 | Jl. Pemuda Kranji | 7L
+Buah Segar. UD | -6.212875 | 106.875837 | Jl Pisangan Lama II | 0
+Halim Golf Club | -6.2817709 | 106.890908 | Jl. Skadron Halim Perdanakusuma | 0
+ITC Cempaka Mas Side Entrance | -6.1659042 | 106.876785 | Jalan Letjen. R. Suprapto | Kav. 1
+Station Cafe | -6.1769221 | 106.830948 | Jalan Medan Merdeka Timur | 17
+GPDI Betlehem | -6.1519902 | 106.898206 | Gading Batavia | 0
+Gedung Wira Usaha | -6.2139665 | 106.830804 | Jl. HR Rasuna Said | Kav. C, No. 5
+Menara Gracia | -6.2185955 | 106.831527 | Jl. H. R. Rasuna Said No.Kav C-17 | 0
+The Acacia Hotel | -6.1889819 | 106.847234 | Jl. Kramat Raya No.81, RT.1/RW.7 | 0
+Wisma Shinta | -6.2140252 | 106.875083 | Jl. Pisangan Lama 1 | No. 2
+Hotel Nuansa Bali Anyer | -6.2113234 | 106.859071 | Jl. Slamet Riyadi No. 7 | 0
+Madam Ching | -6.1989294 | 106.839748 | Jl. Surabaya | No.24
+Wisma Laena | -6.2233762 | 106.84958 | Jl. Kh. Abdullah Syafei No.7 | 0
+Hotel Santika TMII | -6.3026026 | 106.886304 | Jalan Pintu 1 TMII | 0
+The Club Gading Mas, Driving Range (Main Entrance) | -6.1526349 | 106.891254 | Jl. Boulevard Barat Raya | 1
+Holland Bakery Jatinegara | -6.2236787 | 106.868089 | Jl. Jatinegara Timur | 109
+Graha Gepembri | -6.1583807 | 106.901055 | Jl. Boulevard Bar. Raya Blok XB | 4
+Wisma Mayoria | -6.1664407 | 106.914781 | Jl. Boulevard Timur Raya | 7
+Sherwood Residence (Main Entrance) | -6.1528485 | 106.906857 | Jl. Pelepah Elok | 1
+Clairmont Kelapa Gading | -6.1666227 | 106.901208 | Jl. Nirwana Boulevard | 14
+Holland Bakery Gunung Sahari | -6.167599 | 106.839773 | Jl. Gunung Sahari Raya | 84A
+Hotel Santika Kelapa Gading | -6.1500853 | 106.90276 | Jl. Raya Kelapa Nias | 0
+Holland Bakery Kalimalang | -6.2494203 | 106.952777 | Jl. Inspeksi Kalimalang | 86 E
+Holland Bakery Pondok Gede | -6.2839403 | 106.909736 | Jl. Pondok Gede No.6 | 0
+Holland Bakery Pasar Minggu | -6.2621527 | 106.843474 | Jl. Raya Pasar Minggu Km 5 | 1
+Holland Bakery Jatiwaringin | -6.2758974 | 106.912998 | Pd. Gede Jl. Jatiwaringin Raya | 53
+Holland Bakery Buaran | -6.2203533 | 106.92179 | Ruko Taman Buaran Indah 1 | 0
+Holland Bakery Condet | -6.2740707 | 106.856826 | no, Gg. M.Zen | 15
+Holland Bakery Jati Makmur | -6.2856177 | 106.935717 | Jl. Jati Makmur Raya | 3A
+Holland Bakery Pondok Kelapa | -6.2297876 | 106.935 | Jl. Raya Pondok Kelapa Blok C 4 | 2C
+Holland Bakery Pondok Bambu | -6.2206863 | 106.899165 | Jl. Pahlawan Revolusi | 53
+Holland Bakery Pondok Kopi | -6.2318757 | 106.942912 | Jl. Pondok Kopi Raya | 54
+Holland Bakery Sahardjo | -6.2280377 | 106.847732 | Jl. Dr. Saharjo | 317 AC
+Clairmont Bekasi | -6.186032 | 106.979586 | Jl. Bulevar Hijau Raya | 22
+Holland Bakery Garuda | -6.1617773 | 106.843807 | Jl. Garuda | 47
+Clairmont Tebet | -6.2289853 | 106.8543 | Jalan Tebet Raya | 54C
+Holland Bakery Kelapa Gading Barat | -6.1564556 | 106.899830 | Jl. Boulevard Barat Kelapa Gading Blok LC 7 | 19
+Holland Bakkery Kelapa Gading Timur | -6.1616157 | 106.907610 | Jalan Raya Timur Boulevard | 8
+All Fresh Gatot Subroto | -6.2413154 | 106.839152 | Jalan Jenderal Gatot Subroto | 185
+Harvest Kelapa Gading | -6.1724967 | 106.897578 | Jl. Boulevard Raya Blok TA | 2/4
+Holland Bakery - Rawamangun | -6.1991153 | 106.88576 | Balai Pustaka Timur | 0
+Holland Bakery Cempaka Putih | -6.176533 | 106.873546 | Jalan Cempaka Putih Raya Blok A | 108
+Holland Bakery Rawasari | -6.1877644 | 106.874562 | Jl. Rawasari Selatan | 41
+Holland Bakery Johar Baru | -6.1872543 | 106.855711 | Jl. Percetakan Negara II | 21
+Dapur Cokelat Tebet | -6.2380413 | 106.847553 | Jalan Tebet Barat Dalam | 43
+Dapur Cokelat Harapan Indah | -6.1868507 | 106.977394 | Jalan Harapan Indah Raya | 0
+Holland Bakery Harapan Indah | -6.186043 | 106.97927 | Jalan Boulevard Hijau Raya Blok B8 | 16
+Dapur Cokelat Galaxy | -6.2699333 | 106.971640 | Jl. Pulo Sirih Utama | 0
+Dwidaya Pasar Baru | -6.1602013 | 106.835497 | Jalan KH Samanhudi | 22AB
+Holland Bakery Karawang | -6.3162807 | 106.924059 | Jl. Raya Hankam | 0
+Ace Hardware Rawamangun | -6.193721 | 106.894229 | Jl. Pemuda | 66-67
+Dunkin Donuts Pondok Gede | -6.2856423 | 106.911873 | Jl. Raya Pondok Gede Jati Rahayu | 0
+Ace Hardware - Kelapa Gading | -6.1570467 | 106.899079 | Jalan Boulevard Barat Raya, Blok XC - 9 | 3-6
+Ace Hardware - Green Terrace Taman mini | -6.3030513 | 106.885775 | Jl. Pintu Utama 1 TMII | 0
+Dunkin Donuts | -6.2494402 | 106.943493 | Jalan Inspeksi Kalimalang | 2
+Wisma PGI | -6.1921322 | 106.833132 | Jalan Teuku Umar | 17
+Halimun | -6.2051455 | 106.833351 | Jalan Galunggung | 0
+Halte Pasar Rumput | -6.207056 | 106.841107 | Jalan Pasar rumput | RT.1/RW.3
+Halte Pasar Genjing | -6.1944032 | 106.860934 | Jalan Pramuka | 0
+Toko Ginting | -6.294016 | 106.860331 | Jalan Raya Tengah | 0
+Dochy | -6.3048626 | 106.910586 | Swadaya | 65
+carpro | -6.1932752 | 106.895253 | nil | 0
+MP.UTANKAYU SELATAN 001 , ( 601157) | -6.2032001 | 106.868977 | nil | 0
+MP.PONDOK KOPI 001, (601183) | -6.2276515 | 106.932719 | nil | 0
+MP. TANJUNG BARAT 001, ( 601148 ) | -6.3036922 | 106.846245 | nil | 0
+MP.PONDOK KELAPA 001, ( 601184 ) | -6.2369824 | 106.94320 | nil | 0
+MP. SUKA PURA 001, ( 601179 ) | -6.152865 | 106.92329 | nil | 0
+Bikun Coffee | -6.3649986 | 106.83109 | nil | 0
+Makaroni Ngehe | -6.364692 | 106.834022 | nil | 0
+Indomaret Bidara Cina | -6.2289631 | 106.867076 | nil | 0
+Cimanggis Square Lobby Hypermart | -6.3575003 | 106.860288 | Jalan Bogor Raya | 29
+Cimanggis Square Lobby Bike Area (P5) | -6.3572897 | 106.860382 | Jalan Bogor Raya | 29
+Indomaret | -6.2897964 | 106.97532 | nil | 0
+Indomaret | -6.3580859 | 106.832784 | Jalan Raya Margonda | 0
+Lippo Office Kuningan | -6.2174928 | 106.830181 | Jalan HR Rasuna Said | B12
+Halte Manggarai | -6.2088001 | 106.847299 | Jalan Sultan Agung | 0
+Alfamart | -6.2189163 | 106.89241 | nil | 0
+Nasi Goreng Mafia | -6.2293443 | 106.853213 | Jalan Tebet Raya | 27D
+Seven Eleven Pasar Festival | -6.2218728 | 106.832736 | nil | 0
+Musholla Darrusa'adah | -6.2650346 | 106.916200 | nil | 0
+Warung Sembako | -6.2651373 | 106.91675 | nil | 0
+Karimata | -6.2920208 | 106.881368 | Jalan Taman Mini 1 | 0
+Premier Riviera residence | -6.2045134 | 106.904389 | nil | 0
+Pasar Jatinegara | -6.2158706 | 106.866411 | Jalan Jatinegara Timur | 0
+Alfamart | -6.2810617 | 106.871792 | Jalan Raya Bogor | 0
+Bank Syariah Mandiri | -6.2775091 | 106.869490 | Jalan Raya Bogor | 0
+IToast | -6.2183121 | 106.834452 | Jalan Taman Malaka Selatan | 1-2
+Insthink Corp | -6.2483813 | 106.843130 | L'Avenue Office &amp; Apartment | Floor 20 B
+Multazam Utama Tour | -6.1638313 | 106.878409 | nil | 0
+Bank Bukopin | -6.2251249 | 106.865204 | Jl.Monumen Pancasila Sakti | 9
+Bukit Duri | -6.2210945 | 106.858425 | nil | 0
+red-z petshop | -6.3681789 | 106.833938 | Jalan Raya Margonda | 0
+Tebet Barat | -6.2339315 | 106.848905 | nil | 0
+Tebet Timur | -6.2328107 | 106.854958 | nil | 0
+SPBU Total | -6.2427441 | 106.849780 | Jalan Letjen M. T. Haryono | 8
+SPBU 34-12804 | -6.2356951 | 106.844621 | Jalan Prof. Dr. Soepomo | 0
+SPBU 34-12806 | -6.2385353 | 106.844487 | Jalan Prof. Dr. Soepomo | 57
+Jatinegara | -6.2150094 | 106.870268 | Jl. Bekasi Barat Raya, RT.13/RW.16, Pisangan Baru, Matraman | 0
+BNI Syariah | -6.2277965 | 106.832786 | nil | 0
+KFC Gelael Tebet | -6.2426083 | 106.847249 | nil | 0
+Bank Danamon | -6.2617519 | 106.842841 | nil | 0
+BNI Syariah | -6.260654 | 106.842938 | nil | 0
+OCBC NISP | -6.2594629 | 106.843650 | nil | 0
+PATTIRO | -6.2839213 | 106.839789 | Jalan Mawar, Komplek Kejaksaan Agung Blok G 35 | 0
+Cempaka Putih Barat | -6.1797434 | 106.86309 | nil | 0
+Cempaka Putih Timur | -6.1763601 | 106.870439 | nil | 0
+Rawasari | -6.1900838 | 106.86442 | nil | 0
+Pasar Terkendali Pulo Jahe | -6.194837 | 106.922805 | nil | 0
+Cempaka Putih | -6.1809681 | 106.868675 | nil | 0
+Cililitan | -6.2624687 | 106.8638 | nil | 0
+Bank DKI | -6.2487046 | 106.860023 | nil | 0
+Bank Panin | -6.2103662 | 106.831237 | nil | 0
+Pusat Studi Hukum dan Kebijakan Indonesia | -6.2102182 | 106.831178 | nil | 0
+Lembaga Independensi Peradilan | -6.2103182 | 106.831191 | nil | 0
+Gading Park View Blok Z/E 3 No. 7 | -6.1653433 | 106.9114 | Taman Tirta, Gading Park View, Kelapa Gading | Z/E 3 No. 7
+SPBU Shell | -6.2151778 | 106.879674 | Jalan Bekasi Timur | 154
+Menteng | -6.1982846 | 106.836162 | nil | 0
+Bank DKI | -6.1830135 | 106.915405 | nil | 0
+Bank QNB | -6.1830055 | 106.915499 | nil | 0
+Bank Ekonomi | -6.1830415 | 106.915805 | nil | 0
+Bank OCBC NISP | -6.1830535 | 106.915909 | nil | 0
+Bank BII | -6.1830575 | 106.916055 | nil | 0
+Johar Baru | -6.1823441 | 106.853691 | nil | 0
+Pancoran | -6.2475556 | 106.841429 | nil | 0
+Pancoran | -6.2532977 | 106.844977 | nil | 0
+Duren Tiga | -6.2559452 | 106.834157 | nil | 0
+Tebet | -6.226728 | 106.849944 | nil | 0
+Aneka Sepeda | -6.184888 | 106.907060 | Jalan Bekasi Barat Raya | 4
+Pisangan Baru | -6.2114514 | 106.868161 | nil | 0
+Kayu Manis | -6.200931 | 106.862043 | nil | 0
+Palmeriam | -6.203709 | 106.859748 | nil | 0
+Bank Syariah Bukopin | -6.277409 | 106.869437 | nil | 0
+SPBU 10048251 | -6.1843023 | 106.944545 | Bekasi Raya | 23
+Superindo | -6.224403 | 106.877979 | nil | 0
+Bank BJB | -6.2187504 | 106.886879 | nil | 0
+Akademik Manajemen Informasi dan Komunikasi | -6.2255377 | 106.876702 | nil | 0
+Matraman | -6.2035575 | 106.864018 | nil | 0
+Setiabudi | -6.218449 | 106.830025 | nil | 0
+Bakmi Berdikari (2) | -6.2325646 | 106.856553 | Jalan Tebet Timur Dalam | tower 06
+Bakmi Berdikari | -6.2329566 | 106.856934 | Jalan Tebet Timur Dalam | 0
+Cipinang Cempedak | -6.2346728 | 106.872916 | nil | 0
+Jatinegara | -6.2253192 | 106.878495 | nil | 0
+Kramat Jati | -6.2758505 | 106.864307 | nil | 0
+STMIK Muhammadiyah | -6.2085461 | 106.863001 | nil | 0
+Bank Intidana | -6.1832337 | 106.938825 | nil | 0
+Bank Mandiri Mitra Usaha | -6.2109448 | 106.878566 | Jalan Perumkar DKI, Blok M2 No. 30, Pondok Kelapa, Jakarta Timur | M2 No. 30
+La Terrasse | -6.237344 | 106.87022 | Cipinang Cempedak II | 1A
+Pasar Minggu Baru | -6.2627967 | 106.851807 | nil | 0
+BTPN | -6.198884 | 106.886394 | nil | 0
+Panin Bank | -6.199116 | 106.886364 | nil | 0
+Bank Mandiri | -6.1995079 | 106.886351 | nil | 0
+Bank Artha Graha | -6.1951348 | 106.890863 | nil | 0
+Superindo | -6.1941301 | 106.890636 | nil | 0
+SPBU 10053879 | -6.1938516 | 106.889006 | nil | 0
+Gereja Masehi Advent Hari Ketujuh | -6.1792598 | 106.843691 | nil | 0
+Institut Agama Islam Al-Ghurabaa | -6.1991362 | 106.892269 | nil | 0
+Bank Mandiri | -6.1932691 | 106.897911 | nil | 0
+Commonwealthbank | -6.1931845 | 106.896328 | nil | 0
+Bank BRI | -6.1931792 | 106.891586 | nil | 0
+Panin Bank | -6.2155942 | 106.862646 | nil | 0
+Bank Windu | -6.2157169 | 106.86269 | nil | 0
+Cakung | -6.2191375 | 106.952395 | Jalan Raya Stasiun Cakung Pulogebang, Cakung | 0
+SDIT Assalaamah | -6.1924272 | 106.965798 | nil | 0
+Senen | -6.1870337 | 106.845664 | nil | 0
+Kemayoran | -6.161683 | 106.841530 | Jalan Garuda, Kemayoran | 0
+Bank BRI | -6.1579232 | 106.842851 | nil | 0
+Bank BTN | -6.1621143 | 106.842555 | nil | 0
+Klender Baru | -6.2175789 | 106.939757 | nil | 0
+Buaran | -6.2161721 | 106.928451 | nil | 0
+Cakung | -6.187658 | 106.94146 | nil | 0
+Stasiun Taman Mini | -6.2927768 | 106.880609 | Jalan Taman Mini I | 0
+Bank Permata | -6.1938762 | 106.88651 | nil | 0
+Bank BTN | -6.1860518 | 106.884910 | nil | 0
+Masjid Ar-Rahim | -6.1877401 | 106.886413 | nil | 0
+Bank Mandiri | -6.1854318 | 106.884782 | nil | 0
+SPBU Pertamina 34-131505 | -6.2808308 | 106.871900 | Jalan Raya Bogor | 0
+STIE PBM | -6.2597263 | 106.863845 | nil | 0
+Bank Mandiri | -6.1873588 | 106.960799 | nil | 0
+Bank Syariah Mandiri | -6.2869868 | 106.843433 | nil | 0
+Panin Bank | -6.2908994 | 106.84204 | nil | 0
+Harapan Mulya | -6.1699191 | 106.85658 | nil | 0
+Pulo Gadung | -6.1911125 | 106.889635 | nil | 0
+Shell Jatiwaringin | -6.2482373 | 106.907580 | Jatiwaringin | 12
+Indomaret | -6.3570209 | 106.852869 | nil | 0
+Bank Mandiri | -6.3523393 | 106.883015 | nil | 0
+Gang Sentiong | -6.1861427 | 106.850890 | Jalan Kramat Pulo Dalam Buntu, Kramat, Senen | 0
+Makasar | -6.2674188 | 106.890782 | nil | 0
+Kemayoran | -6.1612378 | 106.85488 | nil | 0
+Bank Muamalat | -6.2193658 | 106.938824 | nil | 0
+Bank Mandiri | -6.2185545 | 106.931091 | nil | 0
+Bank BTN | -6.1931559 | 106.894070 | nil | 0
+De' Teras | -6.211518 | 106.842809 | Jalan Menteng Wadas 11 | 1
+Sekolah Tinggi Ilmu Tarbiyah INSIDA | -6.2246069 | 106.939807 | nil | 0
+Masjid Al-Ikhlas | -6.2074894 | 106.855199 | nil | 0
+Bank Mega | -6.2780595 | 106.830181 | nil | 0
+Bank Yudha Bhakti | -6.2670909 | 106.845407 | nil | 0
+BRI Syariah | -6.2684413 | 106.846199 | nil | 0
+Bank Mandiri | -6.220276 | 106.922292 | nil | 0
+BNI Syariah | -6.220276 | 106.922378 | nil | 0
+Bank Danamon | -6.2203067 | 106.921812 | nil | 0
+Bank Mandiri | -6.2780065 | 106.845123 | nil | 0
+Bank CIMB Niaga | -6.2776843 | 106.845202 | nil | 0
+Perguruan Tinggi Islam Al Halimiyah | -6.2255897 | 106.946515 | Jalan Cikini Raya | 0
+Masjid Jami Al-Hayah | -6.1568035 | 106.831495 | nil | 0
+Cipayung | -6.329545 | 106.893024 | nil | 0
+Bank Muamalat | -6.2163464 | 106.923521 | nil | 0
+Mandiri Mitra Usaha | -6.2196148 | 106.899375 | nil | 0
+Bank Mandiri | -6.2170275 | 106.899805 | nil | 0
+Bank BRI | -6.1643626 | 106.863687 | Jl.  Anyelir,  Blok. D, No:13, Komplek Cahaya Kemang Permai,  Jati Makmur, Bekasi, Jawa Barat | 13
+OCBC NISP | -6.2383307 | 106.899553 | nil | 0
+Bank DKI | -6.2451471 | 106.905401 | nil | 0
+Bank Danamon | -6.2383914 | 106.899582 | nil | 0
+Bank Mandiri Syariah | -6.2290858 | 106.898281 | nil | 0
+RW 04 | -6.3629073 | 106.835449 | bintara pradana | 9
+Indonesian's | -6.2746999 | 106.93924 | Jln. Anyelir, Blok D, No. 13. Komplek Cahaya Kemang Permai, Jati Makmur, Bekasi, Jawa Barat | 13
+Bank Mega | -6.1607557 | 106.839409 | nil | 0
+STIE | -6.1620192 | 106.842349 | nil | 0
+Bank Mega | -6.2476675 | 106.91313 | nil | 0
+Panin Bank | -6.2205595 | 106.922500 | nil | 0
+Permata Bank | -6.2476861 | 106.913204 | nil | 0
+Sawah Besar | -6.1528327 | 106.834487 | nil | 0
+Bank Mandiri | -6.2478354 | 106.928472 | nil | 0
+Panin Bank | -6.2478141 | 106.928300 | nil | 0
+Bank CIMB Niaga | -6.2478425 | 106.929784 | nil | 0
+BRI Syariah | -6.2487606 | 106.934770 | nil | 0
+Bank Danamon | -6.2472808 | 106.922829 | nil | 0
+Bank DKI | -6.2475987 | 106.924914 | nil | 0
+Bank Mandiri Syariah | -6.2473155 | 106.923627 | nil | 0
+Bank Bukopin | -6.2477501 | 106.927871 | nil | 0
+Bank BJB | -6.2274972 | 106.923623 | nil | 0
+Bank Intidana | -6.2483872 | 106.935593 | nil | 0
+Bank Mandiri | -6.2429279 | 106.934474 | nil | 0
+Bank Bahtera Masyarakat | -6.2349394 | 106.934467 | nil | 0
+Bank Muamalat | -6.2996519 | 106.856318 | nil | 0
+Bank Mandiri Syariah | -6.3003732 | 106.856345 | nil | 0
+Bank Mandiri | -6.1938315 | 106.891789 | nil | 0
+Bank BTN | -6.3694674 | 106.88426 | nil | 0
+Duren Sawit | -6.230547 | 106.918580 | nil | 0
+Pasar Rebo | -6.3278343 | 106.855296 | nil | 0
+Independent Research &amp; Advisory Indonesia | -6.187418 | 106.836673 | Jalan Cikini Raya | 3
+Susukan | -6.3122872 | 106.867426 | nil | 0
+Kelapa Dua Wetan | -6.3391721 | 106.883180 | nil | 0
+Ciracas | -6.3436047 | 106.877083 | nil | 0
+Sekolah Pendidikan Angkatan Udara | -6.2750756 | 106.885577 | nil | 0
+Lulu Hypermarket | -6.1871687 | 106.949063 | nil | 0
+Cipayung | -6.3247473 | 106.902195 | nil | 0
+Masjid Asy-Syuhada | -6.1500684 | 106.835778 | nil | 0
+Ramayana | -6.2852433 | 106.840850 | nil | 0
+Kelapa Gading Mall 3 | -6.1576102 | 106.907351 | Jl. Boulevard Kelapa Gading | 0
+Keb Hana Bank | -6.1568328 | 106.907336 | nil | 0
+Permata Bank | -6.1559848 | 106.907875 | nil | 0
+Bank Mandiri | -6.1582835 | 106.906371 | nil | 0
+Bank Bukopin | -6.1569608 | 106.907229 | nil | 0
+Bank Mega | -6.1506939 | 106.898092 | nil | 0
+Bank DBS | -6.1525447 | 106.890857 | nil | 0
+Bank Windu | -6.1524167 | 106.890712 | nil | 0
+Bank Syariah Bukopin | -6.1544434 | 106.89403 | nil | 0
+China Construction Bank Indonesia | -6.1511793 | 106.897873 | nil | 0
+Bank Capital | -6.152246 | 106.890406 | nil | 0
+Bank Bukopin | -6.1547074 | 106.894483 | nil | 0
+Ya Udah Bistro | -6.1874979 | 106.830546 | nil | 0
+Ayam Goreng Suharti | -6.1871799 | 106.830969 | nil | 0
+Bank BNP | -6.1553127 | 106.897476 | Jalan Bakti I | 0
+Bank Jasa Jakarta | -6.1556328 | 106.897749 | nil | 0
+Panin Bank | -6.1553688 | 106.897014 | nil | 0
+Nobu National Bank | -6.1552941 | 106.897412 | nil | 0
+Bank BNI | -6.1560261 | 106.89824 | nil | 0
+Bank Jatim Capem Kelapa Gading | -6.1523287 | 106.89058 | nil | 0
+Bank Mandiri KCP Jakarta Bukit Gading Indah | -6.1507453 | 106.898065 | nil | 0
+Bank Muamalat | -6.1574755 | 106.90687 | nil | 0
+Nobu National Bank | -6.1549501 | 106.908456 | nil | 0
+Bank Sinarmas | -6.1595129 | 106.904422 | nil | 0
+Bank Mitraniaga | -6.1591982 | 106.903953 | nil | 0
+Bank Mega | -6.1590382 | 106.903667 | nil | 0
+Citibank | -6.1584062 | 106.902495 | nil | 0
+Bank Index | -6.1578422 | 106.901478 | nil | 0
+MNC Bank | -6.1576888 | 106.901201 | nil | 0
+KEB Hana Bank | -6.1577088 | 106.901276 | nil | 0
+Bank Mandiri Syariah | -6.1578622 | 106.901568 | nil | 0
+HSBC | -6.1576188 | 106.901042 | nil | 0
+Bank BCA | -6.1573275 | 106.9005 | nil | 0
+CIMB Niaga | -6.1575448 | 106.900923 | nil | 0
+Bank BTPN | -6.1563248 | 106.899294 | nil | 0
+Bank BRI | -6.1569728 | 106.899893 | nil | 0
+Bank Ganesha | -6.1573661 | 106.900629 | nil | 0
+Bank Mandiri | -6.1561928 | 106.898576 | nil | 0
+Bank Dinar | -6.1562848 | 106.898988 | nil | 0
+Bank Mandiri | -6.1747103 | 106.895985 | nil | 0
+Panin Bank | -6.167137 | 106.90162 | nil | 0
+Bank Mega | -6.1664116 | 106.902058 | nil | 0
+Sekretariat RW 21 | -6.1700063 | 106.916492 | Jalan Rawa Tengah | 3
+POP! Hotel Kelapa Gading - Jakarta | -6.1554408 | 106.909136 | Jl. Boulevard Kelapa Gading Blok M, Sentra Kelapa Gading, Klp. Gading Tim., Klp. Gading | 0
+Kelapa Gading | -6.1579262 | 106.902449 | Jalan Raya PKP | 0
+Indomaret | -6.1979883 | 106.849812 | nil | 0
+Nasi Padang | -6.1942098 | 106.868506 | nil | 0
+GBI Alberta | -6.1511149 | 106.876679 | nil | 0
+Bank Mandiri | -6.1507953 | 106.878304 | nil | 0
+Permata Bank | -6.1506886 | 106.879055 | nil | 0
+Alfamart | -6.1587888 | 106.870397 | nil | 0
+Kupi Aceh 88 | -6.2964042 | 106.840879 | nil | 0
+Circle K | -6.1869187 | 106.830228 | Jalan Jati Makmur | 36
+Fish Feeding Riverside Rasuna Epicentrum | -6.2173973 | 106.83564 | Jalan Yos Sudarso | Kav. 28
+PENDOPO KBJ | -6.2110207 | 106.847698 | Gang Bhakti IV | 24
+Bahasa Indonesia | -6.2068294 | 106.955254 | Pulo Gebang | 10
+Graha Kresna | -6.2715826 | 106.922884 | Jatiwaringin Asri | 0
+Grahaesa | -6.1508124 | 106.897078 | Jalan Raya Gading Kirana | 0
+Rumah Edi Fitriyadi | -6.2527961 | 106.830286 | Gang H.Amat | Rt 007 Rw 05 No 4
+Stasiun Gambir | -6.1769348 | 106.830741 | nil | 0
+Tugu Masjid Baabul Jannah | -6.3699104 | 106.849644 | nil | 0
+Consina | -6.2620874 | 106.864229 | nil | 0
+تمان مني | -6.3033254 | 106.889849 | Jalan Radiol | 42
+Alfamart | -6.1782922 | 106.831301 | nil | 0
+Holland Bakery | -6.1773235 | 106.830843 | nil | 0
+Indomaret | -6.1783034 | 106.831249 | nil | 0
+Bengawan Solo | -6.2652691 | 106.885383 | nil | 0
+Holycow! Steak | -6.2653277 | 106.885152 | nil | 0
+ruko simpang klender | -6.2139961 | 106.899329 | Jalan I Gusti Ngurah Rai | 0
+pt putra kasih kanaan | -6.213921 | 106.899291 | Jalan I Gusti Ngurah Rai | 44e
+Agen piala dunia 2018 | -6.1885507 | 106.837452 | Jalan Cikini Raya | No. 53A
+agen piala dunia | -6.191132 | 106.835134 | Jalan Cikini I | 0
+agen piala dunia terpercaya | -6.1770064 | 106.849113 | Jalan Letjen Suprapto | 88
+Dentista | -6.2854953 | 106.833556 | Jalan Sebret | 8A
+Warkop | -6.2857606 | 106.832643 | nil | 0
+But Why | -6.1596332 | 106.915629 | Jalan Bintara Raya | 0
+Royal Oak Townhouse | -6.3529887 | 106.925594 | Jl. Pertamina B,  Jatisampurna | 9-10
+Penginapan Bungur Indah | -6.174689 | 106.845059 | Komplek telkom satwika | 0
+PT Adhi Commuter Properti | -6.3244076 | 106.884238 | Jalan Penganten Ali | 88
+The Nyaman Jakarta | -6.2370184 | 106.849736 | Jalan Tebet Barat VIII | No.14
+Rumah Sakit Ketergantungan Obat | -6.3469579 | 106.872448 | Jl. Raya Lapangan Tembank | 571
+DBS Bicycles HI | -6.1692625 | 106.974918 | Jalan Bulevar Harapan Indah | U7 No.20
+PT.TRIMANUNGGAL PERKASINDO | -6.1859453 | 106.928465 | Jl. Rw. Terate No.66, RT.8/RW.4, Rw. Terate, Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta | 66
+Biggest church | -6.1692306 | 106.833087 | Ruko Boston Square | RK5 No.18
+Limars Teknik | -6.1915138 | 106.843903 | Jalan Raden Saleh Gang VI | 70C
+Holiday Inn Express Jakarta Matraman | -6.2029493 | 106.857756 | Jl Matraman Raya | 69
+Puri Duren Asri 4 | -6.3282314 | 106.950942 | nil | 0
+Alfamart | -6.3634828 | 106.831292 | nil | 0
+Indomaret | -6.2516349 | 106.861391 | Jalan Pengadegan Timur I | 30
+KFC Arion Mall | -6.1939764 | 106.890751 | Jalan Pemuda | 3-4
+Apotek Sion | -6.1973912 | 106.89179 | Jalan Sunan Sedayu | 1
+KitaMart | -6.3348756 | 106.850061 | nil | 0
+Indomaret | -6.3312585 | 106.852776 | nil | 0
+Alfamart | -6.3308876 | 106.852527 | nil | 0
+Alfamart | -6.3285439 | 106.851197 | nil | 0
+PT. Bintang Semesta | -6.3526946 | 106.882626 | Jalan Lapangan Tembak | Ruko Cibubur Indah Blok F.9
+Aqila Laundry | -6.251717 | 106.861872 | Jalan Pengadegan Timur I | 30
+Khadijah Laundry | -6.2517453 | 106.861806 | nil | 0
+EssenMart | -6.2517312 | 106.86183 | nil | 0
+Teras Paris | -6.2516188 | 106.861507 | nil | 0
+Jing Jing | -6.2513981 | 106.861608 | nil | 0
+MM Laundry | -6.2518005 | 106.861910 | nil | 0
+Makciak Masakan Padang | -6.251259 | 106.86177 | nil | 0
+Warbune Jakarta | -6.2521614 | 106.922471 | Jalan Ganesha | 13A
+Loving Hut | -6.2183553 | 106.868554 | Jl. Jatinegara Timur II | 9
+Bakso Kesanda | -6.1762014 | 106.861100 | Jalan Cempaka Putih Raya | 17-19
+Damri | -6.1766189 | 106.830281 | nil | 0
+AlfaExpress | -6.1761028 | 106.83025 | nil | 0
+Indomaret Point | -6.1759351 | 106.830488 | nil | 0
+Rail Transit Suite | -6.1778398 | 106.831116 | nil | 0
+Mesin Tiket KAI | -6.1759959 | 106.830550 | nil | 0
+Cetak Tiket | -6.173934 | 106.843961 | Jalan Salemba Tengah | 23
+Rumah Duka Sint Carolus | -6.1951161 | 106.850381 | nil | 0
+Gokul Vegetarian Resto | -6.1651809 | 106.834644 | Jl Pasar Baru | 12
+Oyo 208 G. House | -6.1587655 | 106.833845 | nil | 0
+Maybank | -6.2319453 | 106.845713 | Jalan Kathedral | 5
+Uchi Parfume | -6.3305827 | 106.935290 | Jl. Raya Kampung Sawah | 128
+Studio Coffee | -6.2228247 | 106.846985 | Jalan Doktor Saharjo | 216
+CIMB Niaga | -6.1898116 | 106.83805 | nil | 0
+Holland | -6.1892797 | 106.837881 | nil | 0
+Pasar Jatinegara | -6.2158567 | 106.866392 | Jalan Jatinegara Timur | 24
+Swiss-Belresidences Kalibata | -6.2555257 | 106.855672 | Jl Kalibata Raya | No.22, RT.6/RW.7
+kineforum DKJ | -6.1884993 | 106.839869 | Jalan Cikini raya | 73
+TENDON INDONESIA | -6.2016935 | 106.844076 | Jalan Penataran | 1
+Apotik Sunter Indah | -6.1538617 | 106.878011 | nil | 0
+The Coffee Experience Tebet | -6.2375008 | 106.856711 | nil | 0
+Starbucks | -6.2293902 | 106.85313 | nil | 0
+Sop Iga | -6.2297686 | 106.85240 | nil | 0
+7-Eleven | -6.1916513 | 106.838174 | nil | 0
+Sederhana | -6.2520383 | 106.861364 | nil | 0
+Alfamart | -6.2521006 | 106.861507 | nil | 0
+FoodHall | -6.1580295 | 106.907397 | nil | 0
+Tiger Sugar | -6.1582133 | 106.907331 | nil | 0
+The Coffee Bean &amp; Tea Leaf | -6.1583262 | 106.907257 | nil | 0
+J. CO | -6.1584008 | 106.90721 | nil | 0
+Starbucks | -6.1585413 | 106.907126 | nil | 0
+Carl's Jr. | -6.1585704 | 106.907107 | nil | 0
+Mesjid Al-Huda Komplek Chandra Baru, Pondok Melati | -6.2969667 | 106.936509 | Gang Abadi II | 14
+Masjid Jami Al-Ikhlas | -6.2312675 | 106.957178 | nil | 0
+SMK Negeri 1 Kota Bekasi | -6.2290272 | 106.957026 | Jalan Bintara VIII | 0
+Baso Malang Oasis | -6.175525 | 106.844632 | nil | 0
+Bakmi Ho Liaw | -6.1709442 | 106.903981 | Jalan Kelapa Kopyor Raya | Q1-14
+Rumah Makan Ageng | -6.2420969 | 106.852029 | nil | 0
+Bright Cafe | -6.2422229 | 106.852461 | nil | 0
+Warung Solo | -6.2419056 | 106.850925 | nil | 0
+Waroeng Bella-1995 | -6.2402911 | 106.847613 | nil | 0
+Pempek Ibu Sulastri | -6.2398272 | 106.848337 | nil | 0
+Toko Buku Kamiko | -6.2396685 | 106.848169 | nil | 0
+Bank Mandiri Syariah | -6.238792 | 106.849376 | nil | 0
+Bank DKI | -6.2389206 | 106.847452 | nil | 0
+OCBC NISP | -6.2303003 | 106.851030 | nil | 0
+J Trust Bank KK Jakarta - Tebet | -6.2303177 | 106.851094 | nil | 0
+Tam's | -6.2327674 | 106.850687 | nil | 0
+Poker-Online-tunaspoker | -6.188342 | 106.882209 | jakarta raya | jakarta raya
+Jaticempaka | -6.2612725 | 106.910630 | Jalan Patra Kuningan Raya | 1-2
+Musholla Al Barkah | -6.3452242 | 106.914640 | nil | 0
+Adwisa Creative | -6.2745763 | 106.974544 | Jalan Boulevard Raya Barat | Blok RSK 3 No.8
+Kantor Pemasaran Kota Harapan Indah | -6.1819686 | 106.97311 | Jl. Harapan Indah Boulevar | Kav.26A
